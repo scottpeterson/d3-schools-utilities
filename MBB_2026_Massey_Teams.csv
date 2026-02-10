@@ -1,0 +1,409 @@
+,Team_ID,Team_Name
+0,1,Adrian
+1,2,Albertus Magnus
+2,3,Albion
+3,4,Albright
+4,5,Alfred
+5,6,Alfred St
+6,7,Allegheny
+7,8,Alma
+8,9,Alvernia
+9,10,Amherst
+10,11,Anderson IN
+11,12,Anna Maria
+12,13,Arcadia
+13,14,Asbury
+14,15,Augsburg
+15,16,Augustana IL
+16,17,Aurora
+17,18,Austin Col
+18,19,Averett
+19,20,Babson
+20,21,Baldwin-Wallace
+21,22,Bard
+22,23,Baruch
+23,24,Bates
+24,25,Belhaven MS
+25,26,Beloit
+26,27,Benedictine IL
+27,28,Berea
+28,29,Berry
+29,30,Bethany Luth
+30,31,Bethany WV
+31,32,Bethel MN
+32,33,Blackburn
+33,34,Bluffton
+34,35,Bowdoin
+35,36,Brandeis
+36,37,Brevard
+37,38,Bridgewater MA
+38,39,Bridgewater VA
+39,40,Brockport St
+40,41,Brooklyn Col
+41,42,Buena Vista
+42,43,Buffalo St
+43,44,Cairn
+44,45,Cal Lutheran
+45,46,Caltech
+46,47,Calvin
+47,48,Capital
+48,49,Carleton MN
+49,50,Carlow
+50,51,Carnegie Mellon
+51,52,Carroll WI
+52,53,Carthage
+53,54,Case Western
+54,55,Castleton
+55,56,Catholic
+56,57,Centenary
+57,58,Centenary NJ
+58,59,Central IA
+59,60,Centre
+60,61,Chapman
+61,62,Chatham
+62,63,Chicago
+63,64,Chris Newport
+64,65,City Col NY
+65,66,Claremont M.S.
+66,67,Clark MA
+67,68,Clarkson
+68,69,Coast Guard
+69,70,Coe
+70,71,Colby
+71,72,Colby-Sawyer
+72,73,College of NJ
+73,74,Colorado Col
+74,75,Concordia IL
+75,76,Concordia Mhd
+76,77,Concordia TX
+77,78,Concordia WI
+78,79,Cornell IA
+79,80,Cortland St
+80,81,Covenant
+81,82,Crown MN
+82,83,CT College
+83,84,Curry
+84,85,Dallas Univ
+85,86,Dean
+86,87,Delaware Val
+87,88,Denison
+88,89,DePauw
+89,90,DeSales
+90,91,Dickinson
+91,92,Dominican IL
+92,93,Drew
+93,94,Dubuque
+94,95,E Connecticut
+95,96,E Mennonite
+96,97,E Texas Bap
+97,98,Earlham
+98,99,Eastern Univ
+99,100,Edgewood
+100,101,Elizabethtown
+101,102,Elmhurst
+102,103,Elmira
+103,104,Elms
+104,105,Emerson
+105,106,Emmanuel MA
+106,107,Emory
+107,108,Endicott
+108,109,Eureka
+109,110,Farmingdale
+110,111,FDU Madison
+111,112,Fitchburg St
+112,113,Framingham St
+113,114,Franciscan OH
+114,115,Frank & Marsh
+115,116,Franklin
+116,117,Gallaudet
+117,118,Geneseo St
+118,119,Geneva
+119,120,George Fox
+120,121,Gettysburg
+121,122,Gordon
+122,123,Goucher
+123,124,Greensboro
+124,125,Greenville
+125,126,Grinnell
+126,127,Grove City
+127,128,Guilford
+128,129,Gust Adolphus
+129,130,Gwynedd-Mercy
+130,131,Hamilton
+131,132,Hamline
+132,133,Hampden-Sydney
+133,134,Hanover
+134,135,Hardin-Simmons
+135,136,Hartford
+136,137,Hartwick
+137,138,Haverford
+138,139,Heidelberg
+139,140,Hendrix
+140,141,Hilbert
+141,142,Hiram
+142,143,Hobart & Smith
+143,144,Hood
+144,145,Hope
+145,146,Houghton
+146,147,Howard Payne
+147,148,Hunter
+148,149,Huntingdon
+149,150,Husson
+150,151,IL Tech
+151,152,IL Wesleyan
+152,153,Illinois Col
+153,154,Immaculata
+154,155,Ithaca
+155,156,J&W NC
+156,157,J&W RI
+157,158,John Carroll
+158,159,John Jay
+159,160,Johns Hopkins
+160,161,Juniata
+161,162,Kalamazoo
+162,163,Kean
+163,164,Keene St
+164,165,Kenyon
+165,166,Keuka
+166,167,Keystone
+167,168,King's PA
+168,169,Knox
+169,170,La Roche
+170,171,La Verne
+171,172,LaGrange
+172,173,Lake Forest
+173,174,Lakeland
+174,175,Lancaster Bib
+175,176,Lasell
+176,177,Lawrence
+177,178,Le Tourneau
+178,179,Lebanon Val
+179,180,Lehman
+180,181,Lesley
+181,182,Lewis & Clark
+182,183,Linfield
+183,184,Loras
+184,185,Luther IA
+185,186,Lycoming
+186,187,Lynchburg
+187,188,Lyon
+188,189,M Hardin-Baylor
+189,190,MA Boston
+190,191,MA Col Lib Arts
+191,192,MA Dartmouth
+192,193,Macalester
+193,194,Manchester
+194,195,Manhattanville
+195,196,Maranatha Bap
+196,197,Marian WI
+197,198,Marietta
+198,199,Martin Luther
+199,200,Mary Baldwin
+200,201,Mary Washington
+201,202,Marymount VA
+202,203,Maryville TN
+203,204,Marywood
+204,205,McDaniel
+205,206,McMurry
+206,207,ME Farmington
+207,208,ME Maritime
+208,209,ME Presque Isle
+209,210,Medgar Evers
+210,211,Merchant Marine
+211,212,Messiah
+212,213,Methodist
+213,214,Middlebury
+214,215,Millikin
+215,216,Millsaps
+216,217,Milwaukee Eng
+217,218,Misericordia
+218,219,MIT
+219,220,Mitchell
+220,221,MN Morris
+221,222,Monmouth IL
+222,223,Montclair St
+223,224,Moravian
+224,225,Morrisville St
+225,226,MS Women
+226,227,Mt Aloysius
+227,228,Mt St Joseph
+228,229,Mt St Mary NY
+229,230,Mt St Vincent
+230,231,Mt Union
+231,232,Muhlenberg
+232,233,Muskingum
+233,234,N Central IL
+234,235,N Central MN
+235,236,N England Col
+236,237,Nazareth
+237,238,NC Wesleyan
+238,239,NE Wesleyan
+239,240,Neumann
+240,241,Nichols
+241,242,NJ City
+242,243,North Park
+243,244,Northwestern MN
+244,245,Norwich
+245,246,Notre Dame MD
+246,247,NVU-Johnson
+247,248,NVU-Lyndon
+248,249,NYU
+249,250,Oberlin
+250,251,Occidental
+251,252,Oglethorpe
+252,253,Ohio Northern
+253,254,Ohio Wesleyan
+254,255,Old Westbury
+255,256,Olivet MI
+256,257,Oswego St
+257,258,Otterbein
+258,259,Pac Lutheran
+259,260,Pacific OR
+260,261,Peace
+261,262,Penn Col Tech
+262,263,Pfeiffer
+263,264,Piedmont
+264,265,Pitt-Bradford
+265,266,Pitt-Greensburg
+266,267,Plattsburgh St
+267,268,Plymouth St
+268,269,Pomona-Pitzer
+269,270,Pratt Inst
+270,271,Principia
+271,272,PSU-Abington
+272,273,PSU-Altoona
+273,274,PSU-Behrend
+274,275,PSU-Berks
+275,276,PSU-Brandywine
+276,277,PSU-Harrisburg
+277,278,Puget Sound
+278,279,Purchase
+279,280,R Stockton
+280,281,Ramapo
+281,282,Randolph Col
+282,283,Randolph-Macon
+283,284,Redlands
+284,285,Regent
+285,286,Regis MA
+286,287,Rensselaer
+287,288,Rhodes
+288,289,RI College
+289,290,Ripon
+290,291,Rivier
+291,292,Roanoke
+292,293,Rochester NY
+293,294,Rochester Tech
+294,295,Rockford
+295,296,Roger Williams
+296,297,Rose-Hulman
+297,298,Rosemont
+298,299,Rowan
+299,300,Russell Sage
+300,301,Rutgers-Camden
+301,302,Rutgers-Newark
+302,303,S Maine
+303,304,S Virginia
+304,305,Salem MA
+305,306,Salisbury
+306,307,Salve Regina
+307,308,Sarah Lawrence
+308,309,Schreiner
+309,310,Scranton
+310,311,Sewanee
+311,312,Shenandoah
+312,313,Simpson IA
+313,314,Skidmore
+314,315,Spalding
+315,316,Springfield
+316,317,St Elizabeth
+317,318,St John Fisher
+318,319,St John's MN
+319,320,St Joseph CT
+320,321,St Joseph's LI
+321,322,St Joseph's ME
+322,323,St Joseph's NY
+323,324,St Lawrence
+324,325,St Mary's MD
+325,326,St Mary's MN
+326,327,St Norbert
+327,328,St Olaf
+328,329,St Scholastica
+329,330,St Thomas TX
+330,331,St Vincent
+331,332,Stevens
+332,333,Stevenson
+333,334,Suffolk
+334,335,SUNY Canton
+335,336,SUNY Cobleskill
+336,337,SUNY Delhi
+337,338,SUNY Fredonia
+338,339,SUNY Maritime
+339,340,SUNY New Paltz
+340,341,SUNY Oneonta
+341,342,SUNY Poly
+342,343,SUNY Potsdam
+343,344,Susquehanna
+344,345,SW Univ TX
+345,346,Swarthmore
+346,347,Thiel
+347,348,Thomas ME
+348,349,Transylvania
+349,350,Trine
+350,351,Trinity CT
+351,352,Trinity TX
+352,353,Tufts
+353,354,TX Lutheran
+354,355,U New England
+355,356,UC Santa Cruz
+356,357,Union NY
+357,358,Univ Ozarks
+358,359,Ursinus
+359,360,Utica
+360,361,VA Wesleyan
+361,362,Valley Forge
+362,363,Vassar
+363,364,W Connecticut
+364,365,W New England
+365,366,Wabash
+366,367,Warren Wilson
+367,368,Wartburg
+368,369,Wash & Jeff
+369,370,Washington & Lee
+370,371,Washington MD
+371,372,Washington StL
+372,373,Waynesburg
+373,374,Webster
+374,375,Wentworth Tech
+375,376,Wesleyan CT
+376,377,Westfield St
+377,378,Westminster MO
+378,379,Westminster PA
+379,380,Wheaton IL
+380,381,Wheaton MA
+381,382,Whitman
+382,383,Whittier
+383,384,Whitworth
+384,385,WI Eau Claire
+385,386,WI LaCrosse
+386,387,WI Lutheran
+387,388,WI Oshkosh
+388,389,WI Platteville
+389,390,WI River Falls
+390,391,WI Stevens Pt
+391,392,WI Stout
+392,393,WI Superior
+393,394,WI Whitewater
+394,395,Widener
+395,396,Wilkes
+396,397,Willamette
+397,398,Williams
+398,399,Wilmington OH
+399,400,Wilson
+400,401,Wittenberg
+401,402,Wm Paterson
+402,403,Wooster
+403,404,Worcester St
+404,405,Worcester Tech
+405,406,Yeshiva
+406,407,York NY
+407,408,York PA

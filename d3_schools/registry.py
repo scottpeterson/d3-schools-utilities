@@ -159,24 +159,31 @@ class SchoolRegistry:
             return
 
         # Sport-scoped: massey/{sport}/{year}.csv
-        for sport_dir in sorted(massey_dir.iterdir()):
-            if sport_dir.is_dir():
-                sport = sport_dir.name
-                for csv_file in sorted(sport_dir.glob("*.csv")):
-                    year = csv_file.stem
-                    key = f"{sport}:{year}"
-                    self._massey_index[key] = {}
-                    # Also register under bare year if it's the only sport
-                    if year not in self._massey_index:
-                        self._massey_index[year] = {}
-                    with open(csv_file, "r", encoding="utf-8-sig") as f:
-                        reader = csv.DictReader(f)
-                        for row in reader:
-                            massey_id = row.get("massey_id", "").strip()
-                            ncaa_id = row.get("ncaa_id", "").strip()
-                            if massey_id and ncaa_id:
-                                self._massey_index[key][massey_id] = ncaa_id
-                                self._massey_index[year][massey_id] = ncaa_id
+        # Track which years have which sports so we only register bare year
+        # keys when a year has exactly one sport (avoids ID collisions).
+        sport_dirs = sorted(d for d in massey_dir.iterdir() if d.is_dir())
+        year_sports: Dict[str, List[str]] = {}  # year -> [sport, ...]
+
+        for sport_dir in sport_dirs:
+            sport = sport_dir.name
+            for csv_file in sorted(sport_dir.glob("*.csv")):
+                year = csv_file.stem
+                key = f"{sport}:{year}"
+                self._massey_index[key] = {}
+                year_sports.setdefault(year, []).append(sport)
+                with open(csv_file, "r", encoding="utf-8-sig") as f:
+                    reader = csv.DictReader(f)
+                    for row in reader:
+                        massey_id = row.get("massey_id", "").strip()
+                        ncaa_id = row.get("ncaa_id", "").strip()
+                        if massey_id and ncaa_id:
+                            self._massey_index[key][massey_id] = ncaa_id
+
+        # Register bare year aliases for years with only one sport
+        for year, sports in year_sports.items():
+            if len(sports) == 1:
+                sport_key = f"{sports[0]}:{year}"
+                self._massey_index[year] = self._massey_index[sport_key]
 
         # Flat layout: massey/{year}.csv
         for csv_file in sorted(massey_dir.glob("*.csv")):

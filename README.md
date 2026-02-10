@@ -6,12 +6,8 @@ Team identity data for D3 athletics is fragmented across Massey Ratings, D3hoops
 
 ## Installation
 
-### From PyPI (once published)
-
 ```bash
 pip install d3-schools
-# or
-uv add d3-schools
 ```
 
 ### From source
@@ -20,8 +16,6 @@ uv add d3-schools
 git clone https://github.com/scottpeterson/d3-schools.git
 cd d3-schools
 pip install -e .
-# or
-uv sync
 ```
 
 ### Requirements
@@ -383,14 +377,14 @@ python scripts/validate_data.py
 ```bash
 git clone https://github.com/scottpeterson/d3-schools.git
 cd d3-schools
-uv sync                       # install deps
-uv run pytest tests/ -v       # run tests (78 tests)
+pip install -e ".[dev]"
+pytest tests/ -v              # run tests (78 tests)
 ```
 
 ### Running Tests
 
 ```bash
-uv run pytest tests/ -v                    # all tests
-uv run pytest tests/test_registry.py -v    # registry tests only
-uv run pytest tests/ --cov=d3_schools      # with coverage
+pytest tests/ -v                    # all tests
+pytest tests/test_registry.py -v    # registry tests only
+pytest tests/ --cov=d3_schools      # with coverage
 ```
