@@ -1,0 +1,145 @@
+alias_value,variant_type,ncaa_id
+alfred state,d3hoops,30170
+austin,d3hoops,953
+bethany,d3hoops,59
+bethany lutheran,d3hoops,30038
+birmingham-southern,d3hoops,28593
+bridgewater (va.),d3hoops,75
+bridgewater state,d3hoops,76
+brockport,d3hoops,78
+brooklyn,d3hoops,79
+buffalo state,d3hoops,85
+case western reserve,d3hoops,122
+ccny,d3hoops,480
+centenary (la.),d3hoops,125
+centenary (n.j.),d3hoops,12884
+central,d3hoops,126
+claremont-mudd-scripps,d3hoops,142
+colorado college,d3hoops,154
+concordia (minn.),d3hoops,161
+concordia (texas),d3hoops,24400
+concordia (wis.),d3hoops,1036
+concordia-moorhead,d3hoops,161
+cornell college,d3hoops,166
+delaware valley,d3hoops,179
+eastern,d3hoops,8968
+farmingdale state,d3hoops,27892
+fdu,d3hoops,221
+fdu-florham,d3hoops,221
+fitchburg state,d3hoops,227
+framingham state,d3hoops,238
+franciscan (ohio),d3hoops,30069
+franklin and marshall,d3hoops,239
+fredonia,d3hoops,242
+gwynedd mercy,d3hoops,12399
+illinois college,d3hoops,297
+johnson and wales,d3hoops,22626
+keene state,d3hoops,330
+lancaster bible,d3hoops,30085
+le tourneau,d3hoops,8490
+lebanon valley,d3hoops,351
+lewis and clark,d3hoops,22235
+maine maritime,d3hoops,378
+maranatha baptist,d3hoops,1194
+maryville (tenn.),d3hoops,396
+massachusetts college,d3hoops,486
+minnesota-morris,d3hoops,1226
+monmouth (ill.),d3hoops,438
+montclair state,d3hoops,442
+morrisville state,d3hoops,30067
+mount aloysius,d3hoops,30036
+mount holyoke,d3hoops,449
+mount st. joseph,d3hoops,8567
+mount st. mary,d3hoops,1468
+mount st. vincent,d3hoops,451
+mount union,d3hoops,452
+n.c. wesleyan,d3hoops,491
+new paltz,d3hoops,475
+new york university,d3hoops,479
+north central (ill.),d3hoops,492
+north central (minn.),d3hoops,30039
+northwestern (minn.),d3hoops,30031
+notre dame (md.),d3hoops,8600
+oneonta,d3hoops,526
+oswego state,d3hoops,530
+pacific (ore.),d3hoops,2751
+pacific lutheran,d3hoops,1297
+penn state-altoona,d3hoops,25719
+penn state-berks,d3hoops,30044
+penn state-harrisburg,d3hoops,30081
+plattsburgh state,d3hoops,547
+plymouth state,d3hoops,548
+pratt,d3hoops,2715
+randolph,d3hoops,566
+regis (mass.),d3hoops,569
+rochester (n.y.),d3hoops,581
+rpi,d3hoops,570
+salem,d3hoops,30041
+salem state,d3hoops,621
+simpson,d3hoops,641
+southwestern (texas),d3hoops,8746
+st. joseph (conn.),d3hoops,8687
+st. joseph (maine),d3hoops,605
+st. joseph's (bklyn.),d3hoops,30072
+st. joseph's (l.i.),d3hoops,1340
+st. joseph's (maine),d3hoops,605
+st. mary's (ind.),d3hoops,8688
+st. mary's (md.),d3hoops,611
+st. mary's (minn.),d3hoops,612
+st. thomas (texas),d3hoops,2810
+sul ross state,d3hoops,1390
+suny cortland,d3hoops,168
+suny fredonia,d3hoops,242
+suny geneseo,d3hoops,247
+suny new paltz,d3hoops,475
+suny potsdam,d3hoops,552
+suny-canton,d3hoops,30165
+suny-cobleskill,d3hoops,30083
+suny-old westbury,d3hoops,524
+suny-oneonta,d3hoops,526
+suny-purchase,d3hoops,30029
+thomas,d3hoops,2758
+trinity (conn.),d3hoops,713
+trinity (d.c.),d3hoops,23413
+trinity (texas),d3hoops,715
+umass boston,d3hoops,401
+umass dartmouth,d3hoops,656
+union,d3hoops,727
+university of chicago,d3hoops,137
+university of dallas,d3hoops,1044
+university of the ozarks,d3hoops,23008
+vermont state castleton,d3hoops,123
+vermont state johnson,d3hoops,324
+vermont state lyndon,d3hoops,30065
+wash u,d3hoops,755
+wash. u,d3hoops,755
+wash. u.,d3hoops,755
+washington and jefferson,d3hoops,751
+washington and lee,d3hoops,752
+washington u.,d3hoops,755
+wentworth,d3hoops,762
+wesleyan,d3hoops,764
+wesleyan (ga.),d3hoops,14718
+westfield state,d3hoops,777
+westminster (mo.),d3hoops,1450
+westminster (pa.),d3hoops,1451
+wheaton (ill.),d3hoops,778
+wheaton (mass.),d3hoops,779
+william peace,d3hoops,17094
+worcester state,d3hoops,809
+york (n.y.),d3hoops,2730
+york (pa.),d3hoops,815
+bow,shortcode,69
+canton,shortcode,30165
+gen,shortcode,247
+lin,shortcode,1179
+midd,shortcode,420
+naz,shortcode,461
+npwbb,shortcode,475
+oc,shortcode,2713
+plat,shortcode,547
+rpi,shortcode,570
+trin,shortcode,713
+trinity univ,shortcode,715
+trinity univ.,shortcode,715
+trinity university,shortcode,715
