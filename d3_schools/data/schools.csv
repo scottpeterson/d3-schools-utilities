@@ -10,14 +10,14 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 715,Trinity (TX),Trinity TX,Trinity (Texas),Trinity (TX),Trinity University (Texas),Trinity (Texas),SAA,6,Coed
 8490,LeTourneau,Le Tourneau,LeTourneau,LeTourneau,LeTourneau University,LeTourneau,SCAC,10,Coed
 1124,Hendrix,Hendrix,Hendrix,Hendrix,Hendrix College,Hendrix,SCAC,10,Coed
-8530,McMurry,McMurry,McMurry,McMurry,McMurry University,McMurry,SCAC,10,Coed
-1355,Schreiner,Schreiner,Schreiner,Schreiner,Schreiner University,Schreiner,SCAC,10,Coed
+8530,McMurry,McMurry,McMurry,McMurry,McMurry University,McMurry,ASC,10,Coed
+1355,Schreiner,Schreiner,Schreiner,Schreiner,Schreiner University,Schreiner,ASC,10,Coed
 319,New Jersey City,NJ City,New Jersey City,New Jersey City,New Jersey City University,New Jersey City,NJAC,4,Coed
-1254,Neumann,Neumann,Neumann,Neumann,Neumann University,Neumann,AEC,5,Coed
-397,Marywood,Marywood,Marywood,Marywood,Marywood University,Marywood,AEC,5,Coed
+1254,Neumann,Neumann,Neumann,Neumann,Neumann University,Neumann,MACC,5,Coed
+397,Marywood,Marywood,Marywood,Marywood,Marywood University,Marywood,MACF,4,Coed
 372,Luther,Luther IA,Luther,Luther,Luther College,Luther,ARC,9,Coed
-475,SUNY New Paltz,SUNY New Paltz,SUNY New Paltz,SUNY New Paltz,State University of New York at New Paltz,SUNY New Paltz,SUNYAC,3,Coed
-396,Maryville,Maryville TN,Maryville (Tenn.),Maryville (TN),Maryville College (Tennessee),Maryville (Tenn.),CCS,6,Coed
+475,SUNY New Paltz,SUNY New Paltz,SUNY New Paltz,SUNY New Paltz,State University of New York at New Paltz,SUNY New Paltz,NJAC,4,Coed
+396,Maryville,Maryville TN,Maryville (Tenn.),Maryville (TN),Maryville College (Tennessee),Maryville (Tenn.),SAA,6,Coed
 28593,Birmingham So,Birmingham So,Birmingham-Southern,Birmingham-So.,Birmingham-Southern College,,,,Coed
 88,Cabrini,Cabrini,Cabrini,Cabrini,Cabrini University,,,,Coed
 23624,Cazenovia,Cazenovia,Cazenovia,Cazenovia,Cazenovia College,,,,Coed
@@ -41,11 +41,11 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 15,Albion,Albion,Albion,Albion,Albion College,Albion,MIAA,7,Coed
 16,Albright,Albright,Albright,Albright,Albright College,Albright,MACC,5,Coed
 18,Alfred,Alfred,Alfred,Alfred,Alfred University,Alfred,E8,3,Coed
-30170,Alfred St.,Alfred St,Alfred State,Alfred St.,Alfred State College,Alfred State,AMCC,7,Coed
+30170,Alfred St.,Alfred St,Alfred State,Alfred St.,Alfred State College,Alfred State,SUNYAC,3,Coed
 19,Allegheny,Allegheny,Allegheny,Allegheny,Allegheny College,Allegheny,PAC,7,Coed
 21,Alma,Alma,Alma,Alma,Alma College,Alma,MIAA,7,Coed
 938,Alvernia,Alvernia,Alvernia,Alvernia,Alvernia University,Alvernia,MACC,5,Coed
-28746,Alverno,Alverno,Alverno,Alverno,Alverno College,Alverno,NACC,8,Women
+28746,Alverno,Alverno,Alverno,Alverno,Alverno College,Alverno,C2C,8,Women
 24,Amherst,Amherst,Amherst,Amherst,Amherst College,Amherst,NESCAC,1,Coed
 939,Anderson,Anderson IN,Anderson,Anderson (IN),Anderson University (Indiana),Anderson,HCAC,8,Coed
 966,Arcadia,Arcadia,Arcadia,Arcadia,Arcadia University,Arcadia,MACF,4,Coed
@@ -112,7 +112,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 152,Colby-Sawyer,Colby-Sawyer,Colby-Sawyer,Colby-Sawyer,Colby-Sawyer College,Colby-Sawyer,GNAC,1,Coed
 154,Colorado College,Colorado Col,Colorado College,Colorado Col.,Colorado College,Colorado College,SCAC,10,Coed
 24400,Concordia (TX),Concordia TX,Concordia (Texas),Concordia (TX),Concordia University Texas,Concordia (Texas),SCAC,10,Coed
-1036,Concordia (WI),Concordia WI,Concordia (Wis.),Concordia Wisconsin,Concordia University Wisconsin,Concordia (Wis.),NACC,8,Coed
+1036,Concordia (WI),Concordia WI,Concordia (Wis.),Concordia Wisconsin,Concordia University Wisconsin,Concordia (Wis.),CCIW,8,Coed
 160,Concordia-Chicago,Concordia IL,Concordia-Chicago,Concordia Chicago,Concordia University Chicago,Concordia-Chicago,NACC,8,Coed
 161,Concordia Moorhead,Concordia Mhd,Concordia-Moorhead,Concordia-Mhead,"Concordia College, Moorhead",Concordia-Moorhead,MIAC,9,Coed
 163,Connecticut College,CT College,Connecticut College,Connecticut Col.,Connecticut College,Connecticut College,NESCAC,1,Coed
