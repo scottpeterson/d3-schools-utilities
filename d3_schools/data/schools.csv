@@ -3,7 +3,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 22989,Lyon,Lyon,Lyon,Lyon,,Lyon,SLIAC,8,Coed
 225,Ferrum,Ferrum,Ferrum,Ferrum,Ferrum College,Ferrum,,,Coed
 22626,Johnson & Wales (RI),J&W RI,JWU Providence,JWU (Providence),Johnson & Wales University (Providence),JWU Providence,CNE,2,Coed
-26,Anna Maria,Anna Maria,Anna Maria,Anna Maria,Anna Maria College,Anna Maria,MASCAC,1,Coed
+26,Anna Maria,Anna Maria,Anna Maria,Anna Maria,Anna Maria College,Anna Maria,,,Coed
 320,John Carroll,John Carroll,John Carroll,John Carroll,John Carroll University,John Carroll,NCAC,7,Coed
 281,Hiram,Hiram,Hiram,Hiram,Hiram College,Hiram,PAC,7,Coed
 8746,Southwestern,SW Univ TX,Southwestern,Southwestern (TX),Southwestern University (Texas),Southwestern,SAA,6,Coed
@@ -15,7 +15,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 319,New Jersey City,NJ City,New Jersey City,New Jersey City,New Jersey City University,New Jersey City,NJAC,4,Coed
 1254,Neumann,Neumann,Neumann,Neumann,Neumann University,Neumann,MACC,5,Coed
 397,Marywood,Marywood,Marywood,Marywood,Marywood University,Marywood,MACF,4,Coed
-372,Luther,Luther IA,Luther,Luther,Luther College,Luther,ARC,9,Coed
+372,Luther,Luther IA,Luther,Luther,Luther College,Luther,MWC,9,Coed
 475,SUNY New Paltz,SUNY New Paltz,SUNY New Paltz,SUNY New Paltz,State University of New York at New Paltz,SUNY New Paltz,NJAC,4,Coed
 396,Maryville,Maryville TN,Maryville (Tenn.),Maryville (TN),Maryville College (Tennessee),Maryville (Tenn.),SAA,6,Coed
 28593,Birmingham So,Birmingham So,Birmingham-Southern,Birmingham-So.,Birmingham-Southern College,,,,Coed
@@ -29,7 +29,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 1267,Northland,Northland,Northland,Northland,Northland College,,,,Coed
 761,Wells,Wells,Wells,Wells,Wells College,,,,Coed
 30188,Bryn Athyn,Bryn Athyn,Bryn Athyn,Bryn Athyn,Bryn Athyn College,,,4,Coed
-15882,Rosemont,Rosemont,Rosemont,Rosemont,Rosemont College,,UEC,4,Coed
+15882,Rosemont,Rosemont,Rosemont,Rosemont,Rosemont College,,,,Coed
 1390,Sul Ross,Sul Ross,Sul Ross State,Sul Ross St.,Sul Ross State University,,,,Coed
 23121,UT Dallas,UT Dallas,Texas-Dallas,Texas-Dallas,University of Texas at Dallas,,,,Coed
 30047,Keystone,Keystone,Keystone,Keystone,Keystone College,Keystone,UEC,4,Coed
@@ -112,7 +112,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 152,Colby-Sawyer,Colby-Sawyer,Colby-Sawyer,Colby-Sawyer,Colby-Sawyer College,Colby-Sawyer,GNAC,1,Coed
 154,Colorado College,Colorado Col,Colorado College,Colorado Col.,Colorado College,Colorado College,SCAC,10,Coed
 24400,Concordia (TX),Concordia TX,Concordia (Texas),Concordia (TX),Concordia University Texas,Concordia (Texas),SCAC,10,Coed
-1036,Concordia (WI),Concordia WI,Concordia (Wis.),Concordia Wisconsin,Concordia University Wisconsin,Concordia (Wis.),CCIW,8,Coed
+1036,Concordia (WI),Concordia WI,Concordia (Wis.),Concordia Wisconsin,Concordia University Wisconsin,Concordia (Wis.),NACC,8,Coed
 160,Concordia-Chicago,Concordia IL,Concordia-Chicago,Concordia Chicago,Concordia University Chicago,Concordia-Chicago,NACC,8,Coed
 161,Concordia Moorhead,Concordia Mhd,Concordia-Moorhead,Concordia-Mhead,"Concordia College, Moorhead",Concordia-Moorhead,MIAC,9,Coed
 163,Connecticut College,CT College,Connecticut College,Connecticut Col.,Connecticut College,Connecticut College,NESCAC,1,Coed
@@ -359,12 +359,12 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 21852,Stevenson,Stevenson,Stevenson,Stevenson,Stevenson University,Stevenson,MACC,5,Coed
 681,Stockton,R Stockton,Stockton,Stockton,Stockton University,Stockton,NJAC,4,Coed
 684,Suffolk,Suffolk,Suffolk,Suffolk,Suffolk University,Suffolk,CNE,2,Coed
-30225,SUNY Delhi,SUNY Delhi,SUNY Delhi,SUNY Delhi,State University of New York at Delhi,SUNY Delhi,NAC,1,Coed
+30225,SUNY Delhi,SUNY Delhi,SUNY Delhi,SUNY Delhi,State University of New York at Delhi,SUNY Delhi,SUNYAC,3,Coed
 247,SUNY Geneseo,Geneseo St,SUNY Geneseo,SUNY Geneseo,State University of New York at Geneseo,SUNY Geneseo,E8,3,Coed
 526,SUNY Oneonta,SUNY Oneonta,SUNY Oneonta,SUNY Oneonta,State University of New York at Oneonta,SUNY Oneonta,SUNYAC,3,Coed
 552,SUNY Potsdam,SUNY Potsdam,SUNY Potsdam,SUNY Potsdam,State University of New York at Potsdam,SUNY Potsdam,SUNYAC,3,Coed
 30165,SUNY Canton,SUNY Canton,SUNY-Canton,SUNY Canton,State University of New York at Canton,SUNY-Canton,SUNYAC,3,Coed
-30083,SUNY Cobleskill,SUNY Cobleskill,SUNY-Cobleskill,SUNY Cobleskill,State University of New York at Cobleskill,SUNY-Cobleskill,NAC,1,Coed
+30083,SUNY Cobleskill,SUNY Cobleskill,SUNY-Cobleskill,SUNY Cobleskill,State University of New York at Cobleskill,SUNY-Cobleskill,SUNYAC,3,Coed
 478,SUNY Maritime,SUNY Maritime,SUNY-Maritime,SUNY Maritime,State University of New York Maritime College,,SKY,3,Men
 524,Old Westbury,Old Westbury,SUNY-Old Westbury,Old Westbury,State University College at Old Westbury,SUNY-Old Westbury,SKY,3,Coed
 30029,SUNY Purchase,Purchase,SUNY-Purchase,Purchase,"Purchase College, State University of New York",SUNY-Purchase,SKY,3,Coed
@@ -398,7 +398,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 805,UW-Whitewater,WI Whitewater,UW-Whitewater,Wis.-Whitewater,University of Wisconsin-Whitewater,UW-Whitewater,WIAC,9,Coed
 30166,Valley Forge,Valley Forge,Valley Forge,Valley Forge,University of Valley Forge,Valley Forge,UEC,4,Coed
 737,Vassar,Vassar,Vassar,Vassar,Vassar College,Vassar,LL,3,Coed
-745,Batten,VA Wesleyan,Batten,Va. Wesleyan,Batten University,Batten,ODAC,6,Coed
+745,Batten,Batten,Batten,Va. Wesleyan,Batten University,Batten,ODAC,6,Coed
 747,Wabash,Wabash,Wabash,Wabash,Wabash College,,NCAC,7,Men
 30236,Warren Wilson,Warren Wilson,Warren Wilson,Warren Wilson,#Warren Wilson College (active 2023-24),Warren Wilson,C2C,6,Coed
 750,Wartburg,Wartburg,Wartburg,Wartburg,Wartburg College,Wartburg,ARC,9,Coed
@@ -411,7 +411,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 760,Wellesley,Wellesley,Wellesley,Wellesley,Wellesley College,Wellesley,NEWMAC,2,Women
 762,Wentworth Tech,Wentworth Tech,Wentworth,Wentworth,Wentworth Institute of Technology,Wentworth,CNE,2,Coed
 764,Wesleyan (CT),Wesleyan CT,Wesleyan,Wesleyan (CT),Wesleyan University (Connecticut),Wesleyan,NESCAC,1,Coed
-14718,Wesleyan (GA),Wesleyan GA,Wesleyan (Ga.),Wesleyan (GA),Wesleyan College (Georgia),Wesleyan (Ga.),CCS,6,Women
+14718,Wesleyan (GA),Wesleyan GA,Wesleyan (Ga.),Wesleyan (GA),Wesleyan College (Georgia),Wesleyan (Ga.),,,Women
 770,Western Connecticut,W Connecticut,Western Connecticut,WestConn,Western Connecticut State University,Western Connecticut,LEC,2,Coed
 775,Western New England,W New England,Western New England,Western New Eng.,Western New England University,Western New England,CNE,2,Coed
 777,Westfield St.,Westfield St,Westfield State,Westfield St.,Westfield State University,Westfield State,MASCAC,1,Coed

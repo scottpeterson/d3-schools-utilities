@@ -40,11 +40,19 @@ class TestMasseyBridgeWBB:
             assert name_to_id[name] == mid
 
     def test_multiple_years_available(self, real_registry):
-        """WBB data for 2024, 2025, 2026 should be available."""
-        for year in ["wbb:2024", "wbb:2025", "wbb:2026"]:
+        """WBB data for 2024 through 2027 should be available."""
+        for year in ["wbb:2024", "wbb:2025", "wbb:2026", "wbb:2027"]:
             school = real_registry.get_by_massey_id("1", year=year)
             if school is not None:
                 assert school.display_name == "Adrian"
+
+
+    def test_batten_across_massey_rename(self, real_registry):
+        """Massey listed Batten as VA_Wesleyan through 2026 and as Batten in 2027."""
+        assert real_registry.massey_id_to_ncaa_id("369", year="wbb:2026") == "745"
+        assert real_registry.massey_id_to_ncaa_id("27", year="wbb:2027") == "745"
+        assert real_registry.find("VA Wesleyan", source="massey").ncaa_id == "745"
+        assert real_registry.find("Batten", source="massey").ncaa_id == "745"
 
 
 class TestMasseyBridgeMBB:

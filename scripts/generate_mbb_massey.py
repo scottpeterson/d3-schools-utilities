@@ -24,6 +24,11 @@ def load_massey_lookup(schools_path: Path) -> dict[str, str]:
             massey = row.get("massey", "").strip()
             if massey and massey != "-":
                 massey_to_ncaa[_normalize(massey)] = ncaa_id
+    # Former Massey names (e.g. VA_Wesleyan before Batten) live in aliases.csv
+    with open(schools_path.parent / "aliases.csv", "r", encoding="utf-8-sig") as f:
+        for row in csv.DictReader(f):
+            if row["variant_type"].strip() == "massey":
+                massey_to_ncaa.setdefault(_normalize(row["alias_value"]), row["ncaa_id"].strip())
     return massey_to_ncaa
 
 

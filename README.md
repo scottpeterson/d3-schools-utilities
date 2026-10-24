@@ -43,7 +43,7 @@ registry.resolve("Hope", output="ncaa_id")           # "286"
 registry.resolve("wash. u.", output="display")        # "WashU"
 
 # Massey ID bridge (sport-scoped -- WBB bundled)
-registry.get_by_massey_id("148", year="2026")  # School(ncaa_id='286', name='Hope')
+registry.get_by_massey_id("148", year="wbb:2026")  # School(ncaa_id='286', name='Hope')
 ```
 
 ---
@@ -143,7 +143,7 @@ Look up a school by NCAA ID (primary key).
 ```python
 registry.get_by_massey_id(massey_id: str, year: str) -> Optional[School]
 ```
-Look up a school by Massey ID for a given year. Massey IDs are sport+gender specific (WBB bundled). Accepts both `"2026"` and `"wbb:2026"` as the year key.
+Look up a school by Massey ID for a given year. Massey IDs are sport+gender specific (WBB bundled). Accepts `"wbb:2026"`, or a bare `"2026"` when only one sport is bundled for that year.
 
 ---
 
@@ -197,7 +197,7 @@ registry.resolve("Trinity (Texas)", source="d3hoops",
 
 #### Massey ID Bridge
 
-Massey IDs are year-specific and sport+gender-specific. The bundled data includes WBB (Women's Basketball) mappings for 2024, 2025, and 2026.
+Massey IDs are year-specific and sport+gender-specific. The bundled data includes WBB (Women's Basketball) mappings for 2024 through 2027 and MBB (Men's Basketball) mappings for 2026.
 
 ```python
 registry.massey_id_to_ncaa_id(massey_id: str, year: str) -> Optional[str]
@@ -205,11 +205,11 @@ registry.ncaa_id_to_massey_id(ncaa_id: str, year: str) -> Optional[str]
 ```
 
 ```python
-registry.massey_id_to_ncaa_id("148", year="2026")   # "286"
-registry.ncaa_id_to_massey_id("286", year="2026")   # "148"
+registry.massey_id_to_ncaa_id("148", year="wbb:2026")   # "286"
+registry.ncaa_id_to_massey_id("286", year="wbb:2026")   # "148"
 ```
 
-Both `"2026"` and `"wbb:2026"` are accepted as year keys.
+Sport-scoped keys such as `"wbb:2026"` always work. A bare `"2027"` works only when one sport is bundled for that year.
 
 ---
 
@@ -228,10 +228,10 @@ registry.name_to_id(id_type: str = "massey", year: str = "", variant: str = "dis
 | `"ncaa"` | No | `{"286": "Hope", "1": "Adrian", ...}` |
 
 ```python
-id_map = registry.id_to_name(id_type="massey", year="2026")
+id_map = registry.id_to_name(id_type="massey", year="wbb:2026")
 id_map["148"]  # "Hope"
 
-name_map = registry.name_to_id(id_type="massey", year="2026")
+name_map = registry.name_to_id(id_type="massey", year="wbb:2026")
 name_map["Hope"]  # "148"
 ```
 
@@ -303,12 +303,15 @@ except SchoolNotFoundError as e:
 ```
 d3_schools/data/
   schools.csv              # 440 schools, 6 variant columns + metadata
-  aliases.csv              # 146 many-to-one aliases (d3hoops + shortcodes)
+  aliases.csv              # 147 many-to-one aliases (d3hoops, shortcodes, former Massey names)
   massey/
     wbb/                   # Women's Basketball (sport+gender scoped)
       2024.csv             # 423 Massey ID -> NCAA ID mappings
       2025.csv             # 417 mappings
       2026.csv             # 413 mappings
+      2027.csv             # 411 mappings
+    mbb/                   # Men's Basketball
+      2026.csv             # 408 mappings
 ```
 
 ### `schools.csv` format

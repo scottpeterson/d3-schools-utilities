@@ -173,6 +173,29 @@ class TestAliases:
         assert school.display_name == "Batten"
 
 
+class TestRealignment2026_27:
+    @pytest.mark.parametrize(
+        "ncaa_id,conference,region",
+        [
+            ("372", "MWC", 9),       # Luther left the ARC
+            ("1036", "NACC", 8),     # Concordia (WI) joins the CCIW in 2027-28
+            ("30083", "SUNYAC", 3),  # SUNY Cobleskill left the NAC
+            ("30225", "SUNYAC", 3),  # SUNY Delhi left the NAC
+        ],
+    )
+    def test_conference_moves(self, real_registry, ncaa_id, conference, region):
+        school = real_registry.get(ncaa_id)
+        assert school.conference == conference
+        assert school.region == region
+
+    @pytest.mark.parametrize("ncaa_id", ["26", "15882", "14718"])
+    def test_departed_schools_have_no_conference(self, real_registry, ncaa_id):
+        # Anna Maria closed, Rosemont ended varsity athletics, Wesleyan (GA) moved to the NAIA
+        school = real_registry.get(ncaa_id)
+        assert school is not None
+        assert not school.conference
+
+
 class TestMasseyBridge:
     def test_massey_to_ncaa(self, registry):
         result = registry.massey_id_to_ncaa_id("148", year="2026")

@@ -32,6 +32,11 @@ def load_schools_csv(path: Path) -> dict[str, str]:
             massey = row.get("massey", "").strip()
             if massey and massey != "-":
                 massey_to_ncaa[_normalize(massey)] = ncaa_id
+    # Former Massey names (e.g. VA_Wesleyan before Batten) live in aliases.csv
+    with open(path.parent / "aliases.csv", "r", encoding="utf-8-sig") as f:
+        for row in csv.DictReader(f):
+            if row["variant_type"].strip() == "massey":
+                massey_to_ncaa.setdefault(_normalize(row["alias_value"]), row["ncaa_id"].strip())
     return massey_to_ncaa
 
 
@@ -117,7 +122,8 @@ def main():
     years_found = []
     for year_dir in sorted(data_root.iterdir()):
         teams_txt = year_dir / "teams.txt"
-        if year_dir.is_dir() and teams_txt.exists():
+        # Only bare-year dirs are WBB; sport-suffixed dirs (2026_mbb) use their own generator
+        if year_dir.is_dir() and year_dir.name.isdigit() and teams_txt.exists():
             years_found.append((year_dir.name, teams_txt))
 
     if not years_found:

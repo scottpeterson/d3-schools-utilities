@@ -346,6 +346,7 @@ def main():
         # Former names kept so pre-rename sources still resolve
         ("virginia wesleyan", "d3hoops"): "745",            # Batten
         ("virginia wesleyan university", "d3hoops"): "745", # Batten
+        ("va wesleyan", "massey"): "745",                   # Massey name through 2025-26
     }
     for (alias_val, vtype), ncaa_id in manual_overrides.items():
         aliases.append({
