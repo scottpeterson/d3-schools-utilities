@@ -188,9 +188,10 @@ class TestRealignment2026_27:
         assert school.conference == conference
         assert school.region == region
 
-    @pytest.mark.parametrize("ncaa_id", ["26", "15882", "14718"])
+    @pytest.mark.parametrize("ncaa_id", ["26", "15882", "14718", "319", "23413", "30166"])
     def test_departed_schools_have_no_conference(self, real_registry, ncaa_id):
-        # Anna Maria closed, Rosemont ended varsity athletics, Wesleyan (GA) moved to the NAIA
+        # Anna Maria and Valley Forge closed, Rosemont and New Jersey City ended athletics,
+        # Wesleyan (GA) moved to the NAIA, Trinity (DC) moved to the USCAA
         school = real_registry.get(ncaa_id)
         assert school is not None
         assert not school.conference

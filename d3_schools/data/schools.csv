@@ -12,7 +12,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 1124,Hendrix,Hendrix,Hendrix,Hendrix,Hendrix College,Hendrix,SCAC,10,Coed
 8530,McMurry,McMurry,McMurry,McMurry,McMurry University,McMurry,ASC,10,Coed
 1355,Schreiner,Schreiner,Schreiner,Schreiner,Schreiner University,Schreiner,ASC,10,Coed
-319,New Jersey City,NJ City,New Jersey City,New Jersey City,New Jersey City University,New Jersey City,NJAC,4,Coed
+319,New Jersey City,NJ City,New Jersey City,New Jersey City,New Jersey City University,New Jersey City,,,Coed
 1254,Neumann,Neumann,Neumann,Neumann,Neumann University,Neumann,MACC,5,Coed
 397,Marywood,Marywood,Marywood,Marywood,Marywood University,Marywood,MACF,4,Coed
 372,Luther,Luther IA,Luther,Luther,Luther College,Luther,MWC,9,Coed
@@ -378,7 +378,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 28749,Transylvania,Transylvania,Transylvania,Transylvania,Transylvania University,Transylvania,HCAC,8,Coed
 30037,Trine,Trine,Trine,Trine,Trine University,Trine,MIAA,7,Coed
 713,Trinity (CT),Trinity CT,Trinity (Conn.),Trinity (CT),Trinity College (Connecticut),Trinity (Conn.),NESCAC,1,Coed
-23413,Trinity (DC),Trinity DC,Trinity (D.C.),Trinity Washington,Trinity Washington University,Trinity (D.C.),IND,5,Women
+23413,Trinity (DC),Trinity DC,Trinity (D.C.),Trinity Washington,Trinity Washington University,Trinity (D.C.),,,Women
 717,Tufts,Tufts,Tufts,Tufts,Tufts University,Tufts,NESCAC,1,Coed
 113,UC Santa Cruz,UC Santa Cruz,UC Santa Cruz,UC Santa Cruz,"University of California, Santa Cruz",UC Santa Cruz,C2C,10,Coed
 727,Union (NY),Union NY,Union,Union (NY),Union College (New York),Union,LL,3,Coed
@@ -396,7 +396,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 803,UW-Stout,WI Stout,UW-Stout,Wis.-Stout,University of Wisconsin-Stout,UW-Stout,WIAC,9,Coed
 804,UW-Superior,WI Superior,UW-Superior,Wis.-Superior,University of Wisconsin-Superior,UW-Superior,UMAC,9,Coed
 805,UW-Whitewater,WI Whitewater,UW-Whitewater,Wis.-Whitewater,University of Wisconsin-Whitewater,UW-Whitewater,WIAC,9,Coed
-30166,Valley Forge,Valley Forge,Valley Forge,Valley Forge,University of Valley Forge,Valley Forge,UEC,4,Coed
+30166,Valley Forge,Valley Forge,Valley Forge,Valley Forge,University of Valley Forge,Valley Forge,,,Coed
 737,Vassar,Vassar,Vassar,Vassar,Vassar College,Vassar,LL,3,Coed
 745,Batten,Batten,Batten,Va. Wesleyan,Batten University,Batten,ODAC,6,Coed
 747,Wabash,Wabash,Wabash,Wabash,Wabash College,,NCAC,7,Men
