@@ -343,6 +343,9 @@ def main():
         ("suny-oneonta", "d3hoops"): "526",        # SUNY Oneonta
         ("suny potsdam", "d3hoops"): "552",        # SUNY Potsdam
         ("cornell college", "d3hoops"): "166",     # Cornell (IA)
+        # Former names kept so pre-rename sources still resolve
+        ("virginia wesleyan", "d3hoops"): "745",            # Batten
+        ("virginia wesleyan university", "d3hoops"): "745", # Batten
     }
     for (alias_val, vtype), ncaa_id in manual_overrides.items():
         aliases.append({

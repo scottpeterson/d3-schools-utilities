@@ -162,6 +162,16 @@ class TestAliases:
         assert school is not None
         assert school.ncaa_id == "716"
 
+    @pytest.mark.parametrize(
+        "name", ["Virginia Wesleyan", "Virginia Wesleyan University", "Batten"]
+    )
+    def test_former_name_resolves(self, real_registry, name):
+        # Virginia Wesleyan renamed to Batten; old sources still use the former name
+        school = real_registry.find(name)
+        assert school is not None
+        assert school.ncaa_id == "745"
+        assert school.display_name == "Batten"
+
 
 class TestMasseyBridge:
     def test_massey_to_ncaa(self, registry):
