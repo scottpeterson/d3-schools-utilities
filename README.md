@@ -302,7 +302,7 @@ except SchoolNotFoundError as e:
 
 ```
 d3_schools/data/
-  schools.csv              # 440 schools, 6 variant columns + metadata
+  schools.csv              # 442 schools, 6 variant columns + metadata
   aliases.csv              # 147 many-to-one aliases (d3hoops, shortcodes, former Massey names)
   massey/
     wbb/                   # Women's Basketball (sport+gender scoped)

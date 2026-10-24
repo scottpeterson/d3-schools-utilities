@@ -188,6 +188,20 @@ class TestRealignment2026_27:
         assert school.conference == conference
         assert school.region == region
 
+    @pytest.mark.parametrize(
+        "ncaa_id,name,conference,region",
+        [
+            ("600", "Saint Francis University", "PAC", 7),  # reclassifying from D-I
+            ("30146", "Azusa Pacific University", "SCIAC", 10),  # reclassifying from D-II
+        ],
+    )
+    def test_reclassifying_schools(self, real_registry, ncaa_id, name, conference, region):
+        school = real_registry.find(name)
+        assert school is not None
+        assert school.ncaa_id == ncaa_id
+        assert school.conference == conference
+        assert school.region == region
+
     @pytest.mark.parametrize("ncaa_id", ["26", "15882", "14718", "319", "23413", "30166"])
     def test_departed_schools_have_no_conference(self, real_registry, ncaa_id):
         # Anna Maria and Valley Forge closed, Rosemont and New Jersey City ended athletics,
