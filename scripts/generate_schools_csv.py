@@ -40,6 +40,7 @@ def load_master_mapping(path: Path) -> list[dict]:
             rows.append(
                 {
                     "ncaa_id": ncaa_id,
+                    "display": row.get("Display", "").strip(),
                     "massey": row.get("Massey", "").strip(),
                     "d3hoops": row.get("d3hoops", "").strip(),
                     "stats_ncaa": row.get("stats.NCAA.org", "").strip(),
@@ -174,8 +175,9 @@ def main():
     output_rows = []
     for row in master_rows:
         ncaa_id = row["ncaa_id"]
-        display = ncaa_to_display.get(ncaa_id, "")
-        # If no display from teams_mapping, use massey name with underscores replaced
+        # The master's Display column is the canonical name (TEAM_NAMING_RULES.md);
+        # fall back to teams_mapping, then to the massey name with underscores replaced.
+        display = row["display"] or ncaa_to_display.get(ncaa_id, "")
         if not display and row["massey"] and row["massey"] != "-":
             display = row["massey"].replace("_", " ")
 

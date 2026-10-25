@@ -2,7 +2,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 272,Hartford,Hartford,Hartford,Hartford,,Hartford,CNE,2,Coed
 22989,Lyon,Lyon,Lyon,Lyon,,Lyon,SLIAC,8,Coed
 225,Ferrum,Ferrum,Ferrum,Ferrum,Ferrum College,Ferrum,,,Coed
-22626,Johnson & Wales (RI),J&W RI,JWU Providence,JWU (Providence),Johnson & Wales University (Providence),JWU Providence,CNE,2,Coed
+22626,Johnson & Wales Providence,J&W RI,JWU Providence,JWU (Providence),Johnson & Wales University (Providence),JWU Providence,CNE,2,Coed
 26,Anna Maria,Anna Maria,Anna Maria,Anna Maria,Anna Maria College,Anna Maria,,,Coed
 320,John Carroll,John Carroll,John Carroll,John Carroll,John Carroll University,John Carroll,NCAC,7,Coed
 281,Hiram,Hiram,Hiram,Hiram,Hiram College,Hiram,PAC,7,Coed
@@ -12,17 +12,17 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 1124,Hendrix,Hendrix,Hendrix,Hendrix,Hendrix College,Hendrix,SCAC,10,Coed
 8530,McMurry,McMurry,McMurry,McMurry,McMurry University,McMurry,ASC,10,Coed
 1355,Schreiner,Schreiner,Schreiner,Schreiner,Schreiner University,Schreiner,ASC,10,Coed
-319,New Jersey City,NJ City,New Jersey City,New Jersey City,New Jersey City University,New Jersey City,,,Coed
+319,NJ City,NJ City,New Jersey City,New Jersey City,New Jersey City University,New Jersey City,,,Coed
 1254,Neumann,Neumann,Neumann,Neumann,Neumann University,Neumann,MACC,5,Coed
 397,Marywood,Marywood,Marywood,Marywood,Marywood University,Marywood,MACF,4,Coed
 372,Luther,Luther IA,Luther,Luther,Luther College,Luther,MWC,9,Coed
 475,SUNY New Paltz,SUNY New Paltz,SUNY New Paltz,SUNY New Paltz,State University of New York at New Paltz,SUNY New Paltz,NJAC,4,Coed
 396,Maryville,Maryville TN,Maryville (Tenn.),Maryville (TN),Maryville College (Tennessee),Maryville (Tenn.),SAA,6,Coed
-28593,Birmingham So,Birmingham So,Birmingham-Southern,Birmingham-So.,Birmingham-Southern College,,,,Coed
+28593,Birmingham-Southern,Birmingham So,Birmingham-Southern,Birmingham-So.,Birmingham-Southern College,,,,Coed
 88,Cabrini,Cabrini,Cabrini,Cabrini,Cabrini University,,,,Coed
 23624,Cazenovia,Cazenovia,Cazenovia,Cazenovia,Cazenovia College,,,,Coed
-958,Summit,Summit,Clarks Summit,Clarks Summit,Clarks Summit University,,,,Coed
-1064,E Nazarene,E Nazarene,Eastern Nazarene,Eastern Nazarene,Eastern Nazarene College,,,,Coed
+958,Clarks Summit,Summit,Clarks Summit,Clarks Summit,Clarks Summit University,,,,Coed
+1064,Eastern Nazarene,E Nazarene,Eastern Nazarene,Eastern Nazarene,Eastern Nazarene College,,,,Coed
 30032,Finlandia,Finlandia,Finlandia,Finlandia,Finlandia University,,,,Coed
 11538,Fontbonne,Fontbonne,Fontbonne,Fontbonne,Fontbonne University,,,,Coed
 23725,Medaille,Medaille,Medaille,Medaille,Medaille College,,,,Coed
@@ -30,11 +30,11 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 761,Wells,Wells,Wells,Wells,Wells College,,,,Coed
 30188,Bryn Athyn,Bryn Athyn,Bryn Athyn,Bryn Athyn,Bryn Athyn College,,,4,Coed
 15882,Rosemont,Rosemont,Rosemont,Rosemont,Rosemont College,,,,Coed
-1390,Sul Ross,Sul Ross,Sul Ross State,Sul Ross St.,Sul Ross State University,,,,Coed
+1390,Sul Ross St.,Sul Ross,Sul Ross State,Sul Ross St.,Sul Ross State University,,,,Coed
 23121,UT Dallas,UT Dallas,Texas-Dallas,Texas-Dallas,University of Texas at Dallas,,,,Coed
 30047,Keystone,Keystone,Keystone,Keystone,Keystone College,Keystone,UEC,4,Coed
 1050,Defiance,Defiance,Defiance,Defiance,Defiance College,,,,Coed
-30033,Mt Mary,Mt Mary,Mount Mary,Mount Mary,Mount Mary University,,,,Women
+30033,Mt. Mary,Mt Mary,Mount Mary,Mount Mary,Mount Mary University,,,,Women
 4,Adrian,Adrian,Adrian,Adrian,Adrian College,Adrian,MIAA,7,Coed
 11324,Agnes Scott,Agnes Scott,Agnes Scott,Agnes Scott,Agnes Scott College,Agnes Scott,CCS,6,Women
 2798,Albertus Magnus,Albertus Magnus,Albertus Magnus,Albertus Magnus,Albertus Magnus College,Albertus Magnus,GNAC,1,Coed
@@ -53,7 +53,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 38,Augsburg,Augsburg,Augsburg,Augsburg,Augsburg University,Augsburg,MIAC,9,Coed
 40,Augustana,Augustana IL,Augustana,Augustana (IL),Augustana College (Illinois),Augustana,CCIW,8,Coed
 42,Aurora,Aurora,Aurora,Aurora,Aurora University,Aurora,NACC,8,Coed
-953,Austin College,Austin Col,Austin,Austin,Austin College,Austin,SCAC,10,Coed
+953,Austin,Austin Col,Austin,Austin,Austin College,Austin,SCAC,10,Coed
 30253,Carlow,Carlow,Carlow,Carlow,,,AMCC,7,Coed
 44,Averett,Averett,Averett,Averett,Averett University,Averett,ODAC,6,Coed
 45,Babson,Babson,Babson,Babson,Babson College,Babson,NEWMAC,2,Coed
@@ -66,8 +66,8 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 296,Benedictine,Benedictine IL,Benedictine,Benedictine (IL),Benedictine University (Illinois),Benedictine,NACC,8,Coed
 30171,Berea,Berea,Berea,Berea,Berea College,Berea,HCAC,8,Coed
 973,Berry,Berry,Berry,Berry,Berry College,Berry,SAA,6,Coed
-59,Bethany (WV),Bethany WV,Bethany,Bethany (WV),Bethany College (West Virginia),Bethany,PAC,7,Coed
-30038,Bethany Luth,Bethany Luth,Bethany Lutheran,Bethany Lutheran,Bethany Lutheran College,Bethany Lutheran,UMAC,9,Coed
+59,Bethany,Bethany WV,Bethany,Bethany (WV),Bethany College (West Virginia),Bethany,PAC,7,Coed
+30038,Bethany Lutheran,Bethany Luth,Bethany Lutheran,Bethany Lutheran,Bethany Lutheran College,Bethany Lutheran,UMAC,9,Coed
 60,Bethel,Bethel MN,Bethel,Bethel (MN),Bethel University (Minnesota),Bethel,MIAC,9,Coed
 64,Blackburn,Blackburn,Blackburn,Blackburn,Blackburn College,Blackburn,SLIAC,8,Coed
 987,Bluffton,Bluffton,Bluffton,Bluffton,Bluffton University,Bluffton,HCAC,8,Coed
@@ -76,8 +76,8 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 30094,Brevard,Brevard,Brevard,Brevard,Brevard College,Brevard,USAC,6,Coed
 75,Bridgewater (VA),Bridgewater VA,Bridgewater (Va.),Bridgewater (VA),Bridgewater College (Virginia),,ODAC,6,Coed
 76,Bridgewater St.,Bridgewater MA,Bridgewater State,Bridgewater St.,Bridgewater State University,Bridgewater State,MASCAC,1,Coed
-78,Brockport St.,Brockport St,Brockport,SUNY Brockport,State University of New York at Brockport,Brockport,E8,3,Coed
-79,Brooklyn College,Brooklyn Col,Brooklyn,Brooklyn,Brooklyn College,Brooklyn,CUNYAC,4,Coed
+78,SUNY Brockport,Brockport St,Brockport,SUNY Brockport,State University of New York at Brockport,Brockport,E8,3,Coed
+79,Brooklyn,Brooklyn Col,Brooklyn,Brooklyn,Brooklyn College,Brooklyn,CUNYAC,4,Coed
 82,Bryn Mawr,Bryn Mawr,Bryn Mawr,Bryn Mawr,Bryn Mawr College,Bryn Mawr,CC,5,Women
 84,Buena Vista,Buena Vista,Buena Vista,Buena Vista,Buena Vista University,Buena Vista,ARC,9,Coed
 85,Buffalo St.,Buffalo St,Buffalo State,Buffalo St.,"Buffalo State, State University of New York",Buffalo State,SUNYAC,3,Coed
@@ -91,13 +91,13 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 120,Carroll,Carroll WI,Carroll,Carroll (WI),Carroll University (Wisconsin),Carroll,CCIW,8,Coed
 121,Carthage,Carthage,Carthage,Carthage,Carthage College,Carthage,CCIW,8,Coed
 122,Case Western,Case Western,Case Western Reserve,CWRU,Case Western Reserve University,Case Western Reserve,UAA,7,Coed
-123,Castleton,Castleton,Castleton,VTSU Castleton,Castleton University,Castleton,LEC,2,Coed
-124,Catholic,Catholic,Catholic,Catholic,Catholic University Drew University,Catholic,LAND,5,Coed
-480,City College (NY),City Col NY,CCNY,CCNY,The City College of New York,CCNY,CUNYAC,4,Coed
+123,VTSU Castleton,Castleton,Castleton,VTSU Castleton,Castleton University,Castleton,LEC,2,Coed
+124,Catholic,Catholic,Catholic,Catholic,Catholic University,Catholic,LAND,5,Coed
+480,CCNY,City Col NY,CCNY,CCNY,The City College of New York,CCNY,CUNYAC,4,Coed
 14795,Cedar Crest,Cedar Crest,Cedar Crest,Cedar Crest,Cedar Crest College,Cedar Crest,UEC,4,Women
 125,Centenary (LA),Centenary,Centenary (La.),Centenary (LA),Centenary College (Louisiana),Centenary (La.),SCAC,10,Coed
 12884,Centenary (NJ),Centenary NJ,Centenary (N.J.),Centenary (NJ),Centenary University (New Jersey),Centenary (N.J.),AEC,5,Coed
-126,Central (IA),Central IA,Central,Central (IA),Central College (Iowa),Central,ARC,9,Coed
+126,Central,Central IA,Central,Central (IA),Central College (Iowa),Central,ARC,9,Coed
 132,Centre,Centre,Centre,Centre,Centre College,Centre,SAA,6,Coed
 134,Chapman,Chapman,Chapman,Chapman,Chapman University,Chapman,SCIAC,10,Coed
 10972,Chatham,Chatham,Chatham,Chatham,Chatham University,Chatham,PAC,7,Coed
@@ -113,16 +113,16 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 154,Colorado College,Colorado Col,Colorado College,Colorado Col.,Colorado College,Colorado College,SCAC,10,Coed
 24400,Concordia (TX),Concordia TX,Concordia (Texas),Concordia (TX),Concordia University Texas,Concordia (Texas),SCAC,10,Coed
 1036,Concordia (WI),Concordia WI,Concordia (Wis.),Concordia Wisconsin,Concordia University Wisconsin,Concordia (Wis.),NACC,8,Coed
-160,Concordia-Chicago,Concordia IL,Concordia-Chicago,Concordia Chicago,Concordia University Chicago,Concordia-Chicago,NACC,8,Coed
-161,Concordia Moorhead,Concordia Mhd,Concordia-Moorhead,Concordia-Mhead,"Concordia College, Moorhead",Concordia-Moorhead,MIAC,9,Coed
+160,Concordia (IL),Concordia IL,Concordia-Chicago,Concordia Chicago,Concordia University Chicago,Concordia-Chicago,NACC,8,Coed
+161,Concordia (MN),Concordia Mhd,Concordia-Moorhead,Concordia-Mhead,"Concordia College, Moorhead",Concordia-Moorhead,MIAC,9,Coed
 163,Connecticut College,CT College,Connecticut College,Connecticut Col.,Connecticut College,Connecticut College,NESCAC,1,Coed
 166,Cornell,Cornell IA,Cornell,Cornell College,Cornell College,Cornell,MWC,9,Coed
-168,Cortland,Cortland St,Cortland,Cortland,State University of New York at Cortland,Cortland,SUNYAC,3,Coed
+168,SUNY Cortland,Cortland St,Cortland,Cortland,State University of New York at Cortland,Cortland,SUNYAC,3,Coed
 30111,Covenant,Covenant,Covenant,Covenant,Covenant College,Covenant,CCS,6,Coed
 30035,Crown,Crown MN,Crown,Crown (MN),Crown College (Minnesota),Crown,UMAC,9,Coed
 170,Curry,Curry,Curry,Curry,Curry College,Curry,CNE,2,Coed
 30219,Dean,Dean,Dean,Dean,Dean College,Dean,GNAC,1,Coed
-179,Delaware Val,Delaware Val,Delaware Valley,Delaware Valley,Delaware Valley University,Delaware Valley,MACF,4,Coed
+179,Delaware Valley,Delaware Val,Delaware Valley,Delaware Valley,Delaware Valley University,Delaware Valley,MACF,4,Coed
 182,Denison,Denison,Denison,Denison,Denison University,Denison,NCAC,7,Coed
 177,DePauw,DePauw,DePauw,DePauw,DePauw University,DePauw,NCAC,7,Coed
 20,DeSales,DeSales,DeSales,DeSales,DeSales University,DeSales,MACF,4,Coed
@@ -132,8 +132,8 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 192,Dubuque,Dubuque,Dubuque,Dubuque,University of Dubuque,Dubuque,ARC,9,Coed
 195,Earlham,Earlham,Earlham,Earlham,Earlham College,Earlham,HCAC,8,Coed
 1062,East Texas Baptist,E Texas Bap,East Texas Baptist,East Tex. Baptist,East Texas Baptist University,East Texas Baptist,ASC,10,Coed
-8968,Eastern Univ,Eastern Univ,Eastern,Eastern,Eastern University,Eastern,MACC,5,Coed
-200,Eastern Connecticut,E Connecticut,Eastern Connecticut,Eastern Conn. St.,Eastern Connecticut State University,Eastern Connecticut,LEC,2,Coed
+8968,Eastern,Eastern Univ,Eastern,Eastern,Eastern University,Eastern,MACC,5,Coed
+200,Eastern Connecticut St.,E Connecticut,Eastern Connecticut,Eastern Conn. St.,Eastern Connecticut State University,Eastern Connecticut,LEC,2,Coed
 203,Eastern Mennonite,E Mennonite,Eastern Mennonite,East. Mennonite,Eastern Mennonite University,Eastern Mennonite,ODAC,6,Coed
 1066,Edgewood,Edgewood,Edgewood,Edgewood,Edgewood College,Edgewood,NACC,8,Coed
 211,Elizabethtown,Elizabethtown,Elizabethtown,Elizabethtown,Elizabethtown College,Elizabethtown,LAND,5,Coed
@@ -145,14 +145,14 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 217,Emory,Emory,Emory,Emory,Emory University,Emory,UAA,6,Coed
 8981,Endicott,Endicott,Endicott,Endicott,Endicott College,Endicott,CNE,2,Coed
 218,Eureka,Eureka,Eureka,Eureka,Eureka College,Eureka,SLIAC,8,Coed
-27892,Farmingdale,Farmingdale,Farmingdale State,Farmingdale St.,Farmingdale State College,Farmingdale State,SKY,3,Coed
-221,FDU Florham,FDU Madison,FDU-Florham,FDU-Florham,"Fairleigh Dickinson University, Florham",FDU-Florham,MACF,4,Coed
+27892,Farmingdale St.,Farmingdale,Farmingdale State,Farmingdale St.,Farmingdale State College,Farmingdale State,SKY,3,Coed
+221,FDU-Florham,FDU Madison,FDU-Florham,FDU-Florham,"Fairleigh Dickinson University, Florham",FDU-Florham,MACF,4,Coed
 227,Fitchburg St.,Fitchburg St,Fitchburg State,Fitchburg St.,Fitchburg State University,Fitchburg State,MASCAC,1,Coed
 238,Framingham St.,Framingham St,Framingham State,Framingham St.,Framingham State University,Framingham State,MASCAC,1,Coed
 30069,Franciscan,Franciscan OH,Franciscan (Ohio),Franciscan,Franciscan University of Steubenville,Franciscan (Ohio),PAC,7,Coed
 2694,Franklin,Franklin,Franklin,Franklin,Franklin College,Franklin,HCAC,8,Coed
 239,Franklin & Marshall,Frank & Marsh,Franklin and Marshall,Franklin & Marshall,Franklin & Marshall College,Franklin and Marshall,CC,5,Coed
-242,Fredonia,SUNY Fredonia,Fredonia,Fredonia,The State University of New York at Fredonia,Fredonia,SUNYAC,3,Coed
+242,Fredonia St.,SUNY Fredonia,Fredonia,Fredonia,The State University of New York at Fredonia,Fredonia,SUNYAC,3,Coed
 245,Gallaudet,Gallaudet,Gallaudet,Gallaudet,Gallaudet University,Gallaudet,UEC,4,Coed
 30084,Geneva,Geneva,Geneva,Geneva,Geneva College,Geneva,PAC,7,Coed
 1094,George Fox,George Fox,George Fox,George Fox,George Fox University,George Fox,NWC,10,Coed
@@ -165,7 +165,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 265,Grove City,Grove City,Grove City,Grove City,Grove City College,Grove City,PAC,7,Coed
 1112,Guilford,Guilford,Guilford,Guilford,Guilford College,Guilford,ODAC,6,Coed
 266,Gustavus Adolphus,Gust Adolphus,Gustavus Adolphus,Gustavus Adolphus,Gustavus Adolphus College,Gustavus Adolphus,MIAC,9,Coed
-12399,Gwynedd-Mercy,Gwynedd-Mercy,Gwynedd Mercy,Gwynedd Mercy,Gwynedd Mercy University,Gwynedd Mercy,AEC,5,Coed
+12399,Gwynedd Mercy,Gwynedd-Mercy,Gwynedd Mercy,Gwynedd Mercy,Gwynedd Mercy University,Gwynedd Mercy,AEC,5,Coed
 267,Hamilton,Hamilton,Hamilton,Hamilton,Hamilton College,Hamilton,NESCAC,1,Coed
 268,Hamline,Hamline,Hamline,Hamline,Hamline University,Hamline,MIAC,9,Coed
 269,Hampden-Sydney,Hampden-Sydney,Hampden-Sydney,Hampden-Sydney,Hampden-Sydney College,,ODAC,6,Men
@@ -175,7 +175,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 276,Haverford,Haverford,Haverford,Haverford,Haverford College,Haverford,CC,5,Coed
 278,Heidelberg,Heidelberg,Heidelberg,Heidelberg,Heidelberg University,Heidelberg,OAC,7,Coed
 8398,Hilbert,Hilbert,Hilbert,Hilbert,Hilbert College,Hilbert,AMCC,7,Coed
-282,Hobart & Smith,Hobart & Smith,Hobart,Hobart,Hobart and William Smigh Colleges,,LL,3,Men
+282,Hobart,Hobart & Smith,Hobart,Hobart,Hobart and William Smith Colleges,,LL,3,Men
 284,Hollins,Hollins,Hollins,Hollins,Hollins University,Hollins,ODAC,6,Women
 8404,Hood,Hood,Hood,Hood,Hood College,Hood,MACC,5,Coed
 286,Hope,Hope,Hope,Hope,Hope College,Hope,MIAA,7,Coed
@@ -184,14 +184,14 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 292,Hunter,Hunter,Hunter,Hunter,Hunter College,Hunter,CUNYAC,4,Coed
 1130,Huntingdon,Huntingdon,Huntingdon,Huntingdon,Huntingdon College,Huntingdon,CCS,6,Coed
 1133,Husson,Husson,Husson,Husson,Husson University,Husson,NAC,1,Coed
-297,Illinois Col,Illinois Col,Illinois College,Illinois Col.,Illinois College,Illinois College,MWC,9,Coed
+297,Illinois College,Illinois Col,Illinois College,Illinois Col.,Illinois College,Illinois College,MWC,9,Coed
 30172,Illinois Tech,IL Tech,Illinois Tech,Illinois Tech,Illinois Institute of Technology,Illinois Tech,NACC,8,Coed
 300,Illinois Wesleyan,IL Wesleyan,Illinois Wesleyan,Ill. Wesleyan,Illinois Wesleyan University,Illinois Wesleyan,CCIW,8,Coed
 303,Immaculata,Immaculata,Immaculata,Immaculata,Immaculata University,Immaculata,AEC,5,Coed
 313,Ithaca,Ithaca,Ithaca,Ithaca,Ithaca College,Ithaca,LL,3,Coed
 321,John Jay,John Jay,John Jay,John Jay,John Jay College of Criminal Justice,John Jay,CUNYAC,4,Coed
 322,Johns Hopkins,Johns Hopkins,Johns Hopkins,Johns Hopkins,Johns Hopkins University,Johns Hopkins,CC,5,Coed
-30245,J&W NC,J&W NC,JWU Charlotte,JWU Charlotte,,,C2C,6,Coed
+30245,Johnson & Wales Charlotte,J&W NC,JWU Charlotte,JWU Charlotte,,,C2C,6,Coed
 325,Juniata,Juniata,Juniata,Juniata,Juniata College,Juniata,LAND,5,Coed
 326,Kalamazoo,Kalamazoo,Kalamazoo,Kalamazoo,Kalamazoo College,Kalamazoo,MIAA,7,Coed
 329,Kean,Kean,Kean,Kean,Kean University,Kean,NJAC,4,Coed
@@ -205,10 +205,10 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 1162,LaGrange,LaGrange,LaGrange,LaGrange,LaGrange College,LaGrange,CCS,6,Coed
 344,Lake Forest,Lake Forest,Lake Forest,Lake Forest,Lake Forest College,Lake Forest,MWC,9,Coed
 1164,Lakeland,Lakeland,Lakeland,Lakeland,Lakeland University,Lakeland,NACC,8,Coed
-30085,Lancaster Bib,Lancaster Bib,Lancaster Bible,Lancaster Bible,Lancaster Bible College,Lancaster Bible,UEC,4,Coed
+30085,Lancaster Bible,Lancaster Bib,Lancaster Bible,Lancaster Bible,Lancaster Bible College,Lancaster Bible,UEC,4,Coed
 8486,Lasell,Lasell,Lasell,Lasell,Lasell University,Lasell,GNAC,1,Coed
 348,Lawrence,Lawrence,Lawrence,Lawrence,Lawrence University,Lawrence,MWC,9,Coed
-351,Lebanon Val,Lebanon Val,Lebanon Valley,Lebanon Valley,Lebanon Valley College,Lebanon Valley,MACF,4,Coed
+351,Lebanon Valley,Lebanon Val,Lebanon Valley,Lebanon Valley,Lebanon Valley College,Lebanon Valley,MACF,4,Coed
 279,Lehman,Lehman,Lehman,Lehman,Lehman College,Lehman,CUNYAC,4,Coed
 24317,Lesley,Lesley,Lesley,Lesley,Lesley University,Lesley,NAC,1,Coed
 22235,Lewis & Clark,Lewis & Clark,Lewis and Clark,Lewis & Clark,Lewis & Clark College,Lewis and Clark,NWC,10,Coed
@@ -217,12 +217,12 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 373,Lycoming,Lycoming,Lycoming,Lycoming,Lycoming College,Lycoming,LAND,5,Coed
 374,Lynchburg,Lynchburg,Lynchburg,Lynchburg,University of Lynchburg,Lynchburg,ODAC,6,Coed
 376,Macalester,Macalester,Macalester,Macalester,Macalester College,Macalester,MIAC,9,Coed
-378,Maine-Maritime,ME Maritime,Maine Maritime,Maine Maritime,Maine Maritime Academy,Maine Maritime,NAC,1,Coed
-379,Maine-Farmington,ME Farmington,Maine-Farmington,Me.-Farmington,"University of Maine, Farmington",Maine-Farmington,NAC,1,Coed
-30040,Maine-Presque Isle,ME Presque Isle,Maine-Presque Isle,Me.-Presque Isle,University of Maine at Presque Isle,Maine-Presque Isle,NAC,1,Coed
+378,Maine Maritime,ME Maritime,Maine Maritime,Maine Maritime,Maine Maritime Academy,Maine Maritime,NAC,1,Coed
+379,Maine Farmington,ME Farmington,Maine-Farmington,Me.-Farmington,"University of Maine, Farmington",Maine-Farmington,NAC,1,Coed
+30040,Maine Presque Isle,ME Presque Isle,Maine-Presque Isle,Me.-Presque Isle,University of Maine at Presque Isle,Maine-Presque Isle,NAC,1,Coed
 1192,Manchester,Manchester,Manchester,Manchester,Manchester University,Manchester,HCAC,8,Coed
 382,Manhattanville,Manhattanville,Manhattanville,Manhattanville,Manhattanville College,Manhattanville,SKY,3,Coed
-1194,Maranatha Bap,Maranatha Bap,Maranatha Baptist,Maranatha Baptist,Maranatha Baptist University,Maranatha Baptist,IND,8,Coed
+1194,Maranatha Baptist,Maranatha Bap,Maranatha Baptist,Maranatha Baptist,Maranatha Baptist University,Maranatha Baptist,IND,8,Coed
 1196,Marian,Marian WI,Marian,Marian (WI),Marian University (Wisconsin),Marian,NACC,8,Coed
 385,Marietta,Marietta,Marietta,Marietta,Marietta College,Marietta,OAC,7,Coed
 8597,Martin Luther,Martin Luther,Martin Luther,Martin Luther,Martin Luther College,Martin Luther,UMAC,9,Coed
@@ -230,9 +230,9 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 1203,Mary Hardin-Baylor,M Hardin-Baylor,Mary Hardin-Baylor,Mary Hardin-Baylor,University of Mary Hardin-Baylor,Mary Hardin-Baylor,ASC,10,Coed
 390,Mary Washington,Mary Washington,Mary Washington,Mary Washington,University of Mary Washington,Mary Washington,C2C,6,Coed
 394,Marymount,Marymount VA,Marymount,Marymount (VA),Marymount University (Virginia),Marymount,AEC,5,Coed
-401,Mass-Boston,MA Boston,Mass-Boston,UMass Boston,University of Massachusetts Boston,Mass-Boston,LEC,2,Coed
-656,Mass-Dartmouth,MA Dartmouth,Mass-Dartmouth,UMass Dartmouth,"Universiy of Massachusetts, Dartmouth",Mass-Dartmouth,LEC,2,Coed
-486,MA Col Lib Arts,MA Col Lib Arts,Massachusetts College,MCLA,Massachusetts College of Liberal Arts,MA Col Lib Arts,MASCAC,1,Coed
+401,UMass Boston,MA Boston,Mass-Boston,UMass Boston,University of Massachusetts Boston,Mass-Boston,LEC,2,Coed
+656,UMass Dartmouth,MA Dartmouth,Mass-Dartmouth,UMass Dartmouth,"University of Massachusetts, Dartmouth",Mass-Dartmouth,LEC,2,Coed
+486,MCLA,MA Col Lib Arts,Massachusetts College,MCLA,Massachusetts College of Liberal Arts,MA Col Lib Arts,MASCAC,1,Coed
 773,McDaniel,McDaniel,McDaniel,McDaniel,McDaniel College,McDaniel,CC,5,Coed
 403,Medgar Evers,Medgar Evers,Medgar Evers,Medgar Evers,Medgar Evers College,Medgar Evers,CUNYAC,4,Coed
 724,Merchant Marine,Merchant Marine,Merchant Marine,Merchant Marine,U.S. Merchant Marine Academy,Merchant Marine,SKY,3,Coed
@@ -242,15 +242,15 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 420,Middlebury,Middlebury,Middlebury,Middlebury,Middlebury College,Middlebury,NESCAC,1,Coed
 424,Millikin,Millikin,Millikin,Millikin,Millikin University,Millikin,CCIW,8,Coed
 426,Millsaps,Millsaps,Millsaps,Millsaps,Millsaps College,Millsaps,SAA,6,Coed
-1226,Minn-Morris,MN Morris,Minnesota-Morris,Minn.-Morris,"University of Minnesota, Morris",Minnesota-Morris,UMAC,9,Coed
+1226,Minnesota Morris,MN Morris,Minnesota-Morris,Minn.-Morris,"University of Minnesota, Morris",Minnesota-Morris,UMAC,9,Coed
 16142,Misericordia,Misericordia,Misericordia,Misericordia,Misericordia University,Misericordia,MACF,4,Coed
 398,MIT,MIT,MIT,MIT,Massachusetts Institute of Technology,MIT,NEWMAC,2,Coed
 30042,Mitchell,Mitchell,Mitchell,Mitchell,Mitchell College,Mitchell,GNAC,1,Coed
 438,Monmouth,Monmouth IL,Monmouth,Monmouth (IL),Monmouth College (Illinois),Monmouth,MWC,9,Coed
 442,Montclair St.,Montclair St,Montclair State,Montclair St.,Montclair State University,Montclair State,NJAC,4,Coed
 443,Moravian,Moravian,Moravian,Moravian,Moravian College,Moravian,LAND,5,Coed
-30067,Morrisville St.,Morrisville St,Morrisville State,SUNY Morrisville,Morrisville State College,Morrisville State,SUNYAC,3,Coed
-30036,Mt. Aloysius,Mt Aloysius,Mount Aloysius,Mount Aloysius,Medaille College,Mount Aloysius,AMCC,7,Coed
+30067,SUNY Morrisville,Morrisville St,Morrisville State,SUNY Morrisville,Morrisville State College,Morrisville State,SUNYAC,3,Coed
+30036,Mt. Aloysius,Mt Aloysius,Mount Aloysius,Mount Aloysius,Mount Aloysius College,Mount Aloysius,AMCC,7,Coed
 449,Mt. Holyoke,Mt Holyoke,Mount Holyoke,Mount Holyoke,Mount Holyoke College,Mount Holyoke,NEWMAC,2,Women
 8567,Mt. St. Joseph,Mt St Joseph,Mount St. Joseph,Mt. St. Joseph,Mount St. Joseph University,Mount St. Joseph,HCAC,8,Coed
 1468,Mt. St. Mary,Mt St Mary NY,Mount St. Mary,Mt. St. Mary (NY),Mount Saint Mary College (New York),Mount St. Mary,SKY,3,Coed
@@ -272,8 +272,8 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 30031,Northwestern (MN),Northwestern MN,Northwestern (Minn.),Northwestern-St. Paul,University of Northwestern-St. Paul,Northwestern (Minn.),UMAC,9,Coed
 511,Norwich,Norwich,Norwich,Norwich,Norwich University,Norwich,GNAC,1,Coed
 8600,Notre Dame (MD),Notre Dame MD,Notre Dame (Md.),Notre Dame (MD),Notre Dame of Maryland University,Notre Dame (Md.),UEC,4,Coed
-324,NVU-Johnson,NVU-Johnson,NVU-Johnson,VTSU-Johnson,Northern Vermont University-Johnson,NVU-Johnson,NAC,1,Coed
-30065,NVU-Lyndon,NVU-Lyndon,NVU-Lyndon,VTSU Lyndon,Northern Vermont University-Lyndon,NVU-Lyndon,NAC,1,Coed
+324,VTSU Johnson,NVU-Johnson,NVU-Johnson,VTSU-Johnson,Northern Vermont University-Johnson,NVU-Johnson,NAC,1,Coed
+30065,VTSU Lyndon,NVU-Lyndon,NVU-Lyndon,VTSU Lyndon,Northern Vermont University-Lyndon,NVU-Lyndon,NAC,1,Coed
 515,Oberlin,Oberlin,Oberlin,Oberlin,Oberlin College,Oberlin,NCAC,7,Coed
 516,Occidental,Occidental,Occidental,Occidental,Occidental College,Occidental,SCIAC,10,Coed
 2713,Oglethorpe,Oglethorpe,Oglethorpe,Oglethorpe,Oglethorpe University,Oglethorpe,SAA,6,Coed
@@ -281,16 +281,16 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 520,Ohio Wesleyan,Ohio Wesleyan,Ohio Wesleyan,Ohio Wesleyan,Ohio Wesleyan University,Ohio Wesleyan,NCAC,7,Coed
 525,Olivet,Olivet MI,Olivet,Olivet,Olivet College,Olivet,MIAA,7,Coed
 530,Oswego St.,Oswego St,Oswego State,Oswego St.,State University of New York at Oswego,Oswego State,SUNYAC,3,Coed
-30189,PSU-Brandywine,PSU-Brandywine,Penn State-Brandywine,Penn St. Brandywine,,,UEC,4,Coed
+30189,Penn St. Brandywine,PSU-Brandywine,Penn State-Brandywine,Penn St. Brandywine,,,UEC,4,Coed
 531,Otterbein,Otterbein,Otterbein,Otterbein,Otterbein University,Otterbein,OAC,7,Coed
 2751,Pacific,Pacific OR,Pacific,Pacific (OR),Pacific University (Oregon),Pacific,NWC,10,Coed
-1297,Pac Lutheran,Pac Lutheran,Pacific Lutheran,Pacific Lutheran,Pacific Lutheran University,Pacific Lutheran,NWC,10,Coed
+1297,Pacific Lutheran,Pac Lutheran,Pacific Lutheran,Pacific Lutheran,Pacific Lutheran University,Pacific Lutheran,NWC,10,Coed
 30190,Penn College,Penn Col Tech,Penn College,Penn College,Pennsylvania College of Technology,Penn College,UEC,4,Coed
-30114,Penn State-Abington,PSU-Abington,Penn State-Abington,Penn St.-Abington,"Penn State University, Abington",Penn State-Abington,UEC,4,Coed
-25719,PSU-Altoona,PSU-Altoona,Penn State-Altoona,Penn St.-Altoona,"Penn State University, Altoona",Penn State-Altoona,AMCC,7,Coed
-538,Penn State-Behrend,PSU-Behrend,Penn State-Behrend,Penn St.-Behrend,"Pennsylvania State University Erie, the Behrend College",Penn State-Behrend,AMCC,7,Coed
-30044,PSU-Berks,PSU-Berks,Penn State-Berks,Penn St.-Berks,Penn State Berks College,Penn State-Berks,UEC,4,Coed
-30081,PSU-Harrisburg,PSU-Harrisburg,Penn State-Harrisburg,Penn St. Harrisburg,Penn State Harrisburg,Penn State-Harrisburg,UEC,4,Coed
+30114,Penn St. Abington,PSU-Abington,Penn State-Abington,Penn St.-Abington,"Penn State University, Abington",Penn State-Abington,UEC,4,Coed
+25719,Penn St. Altoona,PSU-Altoona,Penn State-Altoona,Penn St.-Altoona,"Penn State University, Altoona",Penn State-Altoona,AMCC,7,Coed
+538,Penn St. Behrend,PSU-Behrend,Penn State-Behrend,Penn St.-Behrend,"Pennsylvania State University Erie, the Behrend College",Penn State-Behrend,AMCC,7,Coed
+30044,Penn St. Berks,PSU-Berks,Penn State-Berks,Penn St.-Berks,Penn State Berks College,Penn State-Berks,UEC,4,Coed
+30081,Penn St. Harrisburg,PSU-Harrisburg,Penn State-Harrisburg,Penn St. Harrisburg,Penn State Harrisburg,Penn State-Harrisburg,UEC,4,Coed
 542,Pfeiffer,Pfeiffer,Pfeiffer,Pfeiffer,Pfeiffer University,Pfeiffer,USAC,6,Coed
 21830,Piedmont,Piedmont,Piedmont,Piedmont,Piedmont University,Piedmont,CCS,6,Coed
 1315,Pitt-Bradford,Pitt-Bradford,Pitt-Bradford,Pitt.-Bradford,"University of Pittsburgh, Bradford",Pitt-Bradford,AMCC,7,Coed
@@ -299,11 +299,11 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 548,Plymouth St.,Plymouth St,Plymouth State,Plymouth St.,Plymouth State University,Plymouth State,LEC,2,Coed
 30264,Regent,Regent,Regent,Regent,,,C2C,6,Coed
 549,Pomona-Pitzer,Pomona-Pitzer,Pomona-Pitzer,Pomona-Pitzer,Pomona-Pitzer Colleges,Pomona-Pitzer,SCIAC,10,Coed
-2715,Pratt Inst,Pratt Inst,Pratt,Pratt,#Pratt Institute (active 2022-23),Pratt,AEC,5,Coed
+2715,Pratt,Pratt Inst,Pratt,Pratt,#Pratt Institute (active 2022-23),Pratt,AEC,5,Coed
 555,Principia,Principia,Principia,Principia,Principia College,Principia,SLIAC,8,Coed
 557,Puget Sound,Puget Sound,Puget Sound,Puget Sound,University of Puget Sound,Puget Sound,NWC,10,Coed
 564,Ramapo,Ramapo,Ramapo,Ramapo,Ramapo College,Ramapo,NJAC,4,Coed
-566,Randolph Col,Randolph Col,Randolph,Randolph,Randolph College,Randolph,ODAC,6,Coed
+566,Randolph,Randolph Col,Randolph,Randolph,Randolph College,Randolph,ODAC,6,Coed
 565,Randolph-Macon,Randolph-Macon,Randolph-Macon,Randolph-Macon,Randolph-Macon College,Randolph-Macon,ODAC,6,Coed
 567,Redlands,Redlands,Redlands,Redlands,University of Redlands,Redlands,SCIAC,10,Coed
 569,Regis,Regis MA,Regis (Mass.),Regis (MA),Regis College (Massachusetts),Regis (Mass.),GNAC,1,Coed
@@ -313,7 +313,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 18422,Rivier,Rivier,Rivier,Rivier,Rivier University,Rivier,GNAC,1,Coed
 578,Roanoke,Roanoke,Roanoke,Roanoke,Roanoke College,Roanoke,ODAC,6,Coed
 581,Rochester,Rochester NY,Rochester,Rochester (NY),University of Rochester,Rochester,UAA,3,Coed
-580,Rochester Tech,Rochester Tech,Rochester Tech,RIT,Rochester Institute of Technology,Rochester Tech,LL,3,Coed
+580,RIT,Rochester Tech,Rochester Tech,RIT,Rochester Institute of Technology,Rochester Tech,LL,3,Coed
 582,Rockford,Rockford,Rockford,Rockford,Rockford University,Rockford,NACC,8,Coed
 583,Roger Williams,Roger Williams,Roger Williams,Roger Williams,Roger Williams University,Roger Williams,CNE,2,Coed
 585,Rose-Hulman,Rose-Hulman,Rose-Hulman,Rose-Hulman,Rose-Hulman Institute of Technology,Rose-Hulman,HCAC,8,Coed
@@ -330,7 +330,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 633,Scranton,Scranton,Scranton,Scranton,University of Scranton,Scranton,LAND,5,Coed
 652,Sewanee,Sewanee,Sewanee,Sewanee,University of the South,Sewanee,SAA,6,Coed
 637,Shenandoah,Shenandoah,Shenandoah,Shenandoah,Shenandoah University,Shenandoah,ODAC,6,Coed
-641,Simpson (IA),Simpson IA,Simpson,Simpson,Simpson College,Simpson,ARC,9,Coed
+641,Simpson,Simpson IA,Simpson,Simpson,Simpson College,Simpson,ARC,9,Coed
 642,Skidmore,Skidmore,Skidmore,Skidmore,Skidmore College,Skidmore,LL,3,Coed
 644,Smith,Smith,Smith,Smith,Smith College,Smith,NEWMAC,2,Women
 662,Southern Maine,S Maine,Southern Maine,Southern Me.,University of Southern Maine,Southern Maine,LEC,2,Coed
@@ -341,10 +341,10 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 597,St. Catherine,St Catherine,St. Catherine,St. Catherine,St. Catherine University,St. Catherine,MIAC,9,Women
 9684,St. Elizabeth,St Elizabeth,St. Elizabeth,Saint Elizabeth,Saint Elizabeth University,St. Elizabeth,AEC,5,Coed
 601,St. John Fisher,St John Fisher,St. John Fisher,St. John Fisher,St. John Fisher College,St. John Fisher,E8,3,Coed
-602,St John's MN,St John's MN,St. Johns,Saint Johns (MN),Saint John’s University (Minnesota),,MIAC,9,Men
+602,St. John's,St John's MN,St. Johns,Saint Johns (MN),Saint John’s University (Minnesota),,MIAC,9,Men
 8687,St. Joseph (CT),St Joseph CT,St. Joseph (Conn.),Saint Joseph (CT),University of St. Joseph (Connecticut),St. Joseph (Conn.),GNAC,1,Coed
-30072,St. Joseph's (NY),St Joseph's NY,St. Josephs (Bklyn.),St. Josephs (Brkln),St. Joseph’s College (Brooklyn),St. Josephs (Bklyn.),SKY,3,Coed
-1340,St. Joseph's (LI),St Joseph's LI,St. Josephs (L.I.),St. Josephs (L.I.),St. Joseph’s College (Long Island),St. Josephs (L.I.),SKY,3,Coed
+30072,St. Joseph's Brooklyn,St Joseph's NY,St. Josephs (Bklyn.),St. Josephs (Brkln),St. Joseph’s College (Brooklyn),St. Josephs (Bklyn.),SKY,3,Coed
+1340,St. Joseph's Long Island,St Joseph's LI,St. Josephs (L.I.),St. Josephs (L.I.),St. Joseph’s College (Long Island),St. Josephs (L.I.),SKY,3,Coed
 605,St. Joseph's (ME),St Joseph's ME,St. Josephs (Maine),St. Josephs (ME),Saint Joseph’s College (Maine),St. Josephs (Maine),GNAC,1,Coed
 607,St. Lawrence,St Lawrence,St. Lawrence,St. Lawrence,St. Lawrence University,St. Lawrence,LL,3,Coed
 8688,St. Mary's (IN),St Mary's IN,St. Marys (Ind.),St. Marys (IN),Saint Mary’s College (Indiana),St. Marys (Ind.),MIAA,7,Women
@@ -366,25 +366,25 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 30165,SUNY Canton,SUNY Canton,SUNY-Canton,SUNY Canton,State University of New York at Canton,SUNY-Canton,SUNYAC,3,Coed
 30083,SUNY Cobleskill,SUNY Cobleskill,SUNY-Cobleskill,SUNY Cobleskill,State University of New York at Cobleskill,SUNY-Cobleskill,SUNYAC,3,Coed
 478,SUNY Maritime,SUNY Maritime,SUNY-Maritime,SUNY Maritime,State University of New York Maritime College,,SKY,3,Men
-524,Old Westbury,Old Westbury,SUNY-Old Westbury,Old Westbury,State University College at Old Westbury,SUNY-Old Westbury,SKY,3,Coed
-30029,SUNY Purchase,Purchase,SUNY-Purchase,Purchase,"Purchase College, State University of New York",SUNY-Purchase,SKY,3,Coed
-9500,SUNYIT,SUNY Poly,SUNYIT,SUNY Poly,State University of New York Polytechnic Institute,SUNYIT,E8,3,Coed
+524,SUNY Old Westbury,Old Westbury,SUNY-Old Westbury,Old Westbury,State University College at Old Westbury,SUNY-Old Westbury,SKY,3,Coed
+30029,Purchase,Purchase,SUNY-Purchase,Purchase,"Purchase College, State University of New York",SUNY-Purchase,SKY,3,Coed
+9500,SUNY Poly,SUNY Poly,SUNYIT,SUNY Poly,State University of New York Polytechnic Institute,SUNYIT,E8,3,Coed
 685,Susquehanna,Susquehanna,Susquehanna,Susquehanna,Susquehanna University,Susquehanna,LAND,5,Coed
 686,Swarthmore,Swarthmore,Swarthmore,Swarthmore,Swarthmore College,Swarthmore,CC,5,Coed
 712,TCNJ,College of NJ,TCNJ,TCNJ,The College of New Jersey,TCNJ,NJAC,4,Coed
 1400,Texas Lutheran,TX Lutheran,Texas Lutheran,Texas Lutheran,Texas Lutheran University,Texas Lutheran,SCAC,10,Coed
 707,Thiel,Thiel,Thiel,Thiel,Thiel College,Thiel,PAC,7,Coed
-2758,Thomas (ME),Thomas ME,Thomas,Thomas (ME),Thomas College,Thomas,NAC,1,Coed
+2758,Thomas,Thomas ME,Thomas,Thomas (ME),Thomas College,Thomas,NAC,1,Coed
 28749,Transylvania,Transylvania,Transylvania,Transylvania,Transylvania University,Transylvania,HCAC,8,Coed
 30037,Trine,Trine,Trine,Trine,Trine University,Trine,MIAA,7,Coed
 713,Trinity (CT),Trinity CT,Trinity (Conn.),Trinity (CT),Trinity College (Connecticut),Trinity (Conn.),NESCAC,1,Coed
 23413,Trinity (DC),Trinity DC,Trinity (D.C.),Trinity Washington,Trinity Washington University,Trinity (D.C.),,,Women
 717,Tufts,Tufts,Tufts,Tufts,Tufts University,Tufts,NESCAC,1,Coed
 113,UC Santa Cruz,UC Santa Cruz,UC Santa Cruz,UC Santa Cruz,"University of California, Santa Cruz",UC Santa Cruz,C2C,10,Coed
-727,Union (NY),Union NY,Union,Union (NY),Union College (New York),Union,LL,3,Coed
-1044,Dallas Univ,Dallas Univ,University of Dallas,Dallas,University of Dallas,University of Dallas,SCAC,10,Coed
+727,Union,Union NY,Union,Union (NY),Union College (New York),Union,LL,3,Coed
+1044,Dallas,Dallas Univ,University of Dallas,Dallas,University of Dallas,University of Dallas,SCAC,10,Coed
 1255,University of New England,U New England,University of New England,U New England,University of New England,University of New England,CNE,2,Coed
-23008,Univ Ozarks,Univ Ozarks,University of the Ozarks,Ozarks (AR),University of the Ozarks (Arkansas),University of the Ozarks,SCAC,10,Coed
+23008,Ozarks,Univ Ozarks,University of the Ozarks,Ozarks (AR),University of the Ozarks (Arkansas),University of the Ozarks,SCAC,10,Coed
 730,Ursinus,Ursinus,Ursinus,Ursinus,Ursinus College,Ursinus,CC,5,Coed
 733,Utica,Utica,Utica,Utica,Utica College,Utica,E8,3,Coed
 793,UW-Eau Claire,WI Eau Claire,UW-Eau Claire,Wis.-Eau Claire,University of Wisconsin-Eau Claire,UW-Eau Claire,WIAC,9,Coed
@@ -409,10 +409,10 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 1434,Waynesburg,Waynesburg,Waynesburg,Waynesburg,Waynesburg University,Waynesburg,PAC,7,Coed
 759,Webster,Webster,Webster,Webster,Webster University,Webster,SLIAC,8,Coed
 760,Wellesley,Wellesley,Wellesley,Wellesley,Wellesley College,Wellesley,NEWMAC,2,Women
-762,Wentworth Tech,Wentworth Tech,Wentworth,Wentworth,Wentworth Institute of Technology,Wentworth,CNE,2,Coed
+762,Wentworth,Wentworth Tech,Wentworth,Wentworth,Wentworth Institute of Technology,Wentworth,CNE,2,Coed
 764,Wesleyan (CT),Wesleyan CT,Wesleyan,Wesleyan (CT),Wesleyan University (Connecticut),Wesleyan,NESCAC,1,Coed
 14718,Wesleyan (GA),Wesleyan GA,Wesleyan (Ga.),Wesleyan (GA),Wesleyan College (Georgia),Wesleyan (Ga.),,,Women
-770,Western Connecticut,W Connecticut,Western Connecticut,WestConn,Western Connecticut State University,Western Connecticut,LEC,2,Coed
+770,Western Connecticut St.,W Connecticut,Western Connecticut,WestConn,Western Connecticut State University,Western Connecticut,LEC,2,Coed
 775,Western New England,W New England,Western New England,Western New Eng.,Western New England University,Western New England,CNE,2,Coed
 777,Westfield St.,Westfield St,Westfield State,Westfield St.,Westfield State University,Westfield State,MASCAC,1,Coed
 1450,Westminster (MO),Westminster MO,Westminster (Mo.),Westminster (MO),Westminster College (Missouri),Westminster (Mo.),SLIAC,8,Coed
@@ -426,7 +426,7 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 784,Wilkes,Wilkes,Wilkes,Wilkes,Wilkes University,Wilkes,LAND,5,Coed
 785,Willamette,Willamette,Willamette,Willamette,Willamette University,Willamette,NWC,10,Coed
 787,William Paterson,Wm Paterson,William Paterson,Wm. Paterson,William Paterson University of New Jersey,William Paterson,NJAC,4,Coed
-17094,Peace,Peace,William Peace,William Peace,William Peace University,William Peace,USAC,6,Coed
+17094,William Peace,Peace,William Peace,William Peace,William Peace University,William Peace,USAC,6,Coed
 30073,William Smith,Hobart & Smith,William Smith,William Smith,William Smith College,William Smith,LL,3,Women
 789,Williams,Williams,Williams,Williams,Williams College,Williams,NESCAC,1,Coed
 1461,Wilmington,Wilmington OH,Wilmington,Wilmington (OH),Wilmington College (Ohio),Wilmington,OAC,7,Coed
@@ -439,5 +439,5 @@ ncaa_id,display,massey,d3hoops,stats_ncaa,ncaa_manual,snyder,conference,region,g
 814,Yeshiva,Yeshiva,Yeshiva,Yeshiva,Yeshiva University,Yeshiva,SKY,3,Coed
 2730,York (NY),York NY,York (N.Y.),York (NY),York College (New York),York (N.Y.),CUNYAC,4,Coed
 815,York (PA),York PA,York (Pa.),York (PA),York College (Pennsylvania),York (Pa.),MACC,5,Coed
-600,St Francis PA,St Francis PA,,Saint Francis,Saint Francis University,,PAC,7,Coed
+600,St. Francis,St Francis PA,,Saint Francis,Saint Francis University,,PAC,7,Coed
 30146,Azusa Pacific,Azusa Pacific,,Azusa Pacific,Azusa Pacific University,,SCIAC,10,Coed
